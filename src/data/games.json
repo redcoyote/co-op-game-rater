@@ -1,0 +1,1561 @@
+[
+  {
+    "id": "game_001",
+    "title": "Sid Meier's Civilization® VII",
+    "description": "4X-стратегія: будуй цивілізацію разом або змагайся за домінацію.",
+    "genre": [
+      "Strategy"
+    ],
+    "platform": [
+      "Mac",
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "Full cross-platform",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1295660/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1295660/Sid_Meiers_Civilization_VII/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/sid-meiers-civilization-vii/9NG6VZHN5GQL/0010/9Q51599043C4",
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "2999₴",
+    "gameplayUrl": "https://youtu.be/rjnYQ52IKZY",
+    "gameplayYtId": "rjnYQ52IKZY",
+    "releaseYear": 2025,
+    "metacritic": 81,
+    "steamScore": 50
+  },
+  {
+    "id": "game_002",
+    "title": "Sid Meier's Civilization® VI",
+    "description": "4X-стратегія: разом ведіть народи через тисячоліття історії.",
+    "genre": [
+      "Strategy"
+    ],
+    "platform": [
+      "Mac",
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "Full cross-platform",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/sid-meiers-civilization-vi/9N4RSG99KV1X/0010",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/sid-meiers-civilization-vi-windows-pc/9n1wk3hzg0j6",
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "525₴",
+    "gameplayUrl": "https://www.youtube.com/live/SWpaPfFWVfc",
+    "gameplayYtId": "SWpaPfFWVfc",
+    "releaseYear": 2016,
+    "metacritic": 88,
+    "steamScore": 84
+  },
+  {
+    "id": "game_003",
+    "title": "Farming Simulator 25",
+    "description": "Симулятор ферми: ведіть господарство удвох, ділячи техніку й врожай.",
+    "genre": [
+      "Simulation"
+    ],
+    "platform": [
+      "Mac",
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "Full cross-platform",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2300320/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2300320/Farming_Simulator_25/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/farming-simulator-25/9NMCDQ6RCJKH",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/farming-simulator-25-pc/9pm709j61828",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "930₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=zdr332pWmqg",
+    "gameplayYtId": "zdr332pWmqg",
+    "releaseYear": 2024,
+    "metacritic": 78,
+    "steamScore": 80
+  },
+  {
+    "id": "game_004",
+    "title": "Stardew Valley",
+    "description": "Затишний фермерський життєсим: разом обживайте долину й будуйте дім.",
+    "genre": [
+      "Simulation"
+    ],
+    "platform": [
+      "Mac",
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "Full cross-platform",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/stardew-valley/c3d891z6tnqm",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/stardew-valley/9mwr1nc6vq6l",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "229₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=Bz_EJbHk9Rs",
+    "gameplayYtId": "Bz_EJbHk9Rs",
+    "releaseYear": 2016,
+    "metacritic": 89,
+    "steamScore": 97
+  },
+  {
+    "id": "game_005",
+    "title": "No Man's Sky",
+    "description": "Космічна пісочниця: досліджуйте безмежний всесвіт і будуйте бази удвох.",
+    "genre": [
+      "Exploration"
+    ],
+    "platform": [
+      "Mac",
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "Full cross-platform",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/275850/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/275850/No_Mans_Sky/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/no-mans-sky/bqvqtl3pch05",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/no-mans-sky/bqvqtl3pch05",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "1125₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=4ZTgZhOp3a0",
+    "gameplayYtId": "4ZTgZhOp3a0",
+    "releaseYear": 2016,
+    "metacritic": 71,
+    "steamScore": 80
+  },
+  {
+    "id": "game_006",
+    "title": "Factorio",
+    "description": "Інженерна пісочниця: будуйте велетенські фабрики разом і автоматизуйте все.",
+    "genre": [
+      "Automation"
+    ],
+    "platform": [
+      "Windows",
+      "Mac"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/427520/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/427520/Factorio/",
+    "xboxConsoleUrl": null,
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "300₴",
+    "gameplayUrl": "https://youtu.be/VOkuWa5pw7M",
+    "gameplayYtId": "VOkuWa5pw7M",
+    "releaseYear": 2020,
+    "metacritic": 90,
+    "steamScore": 97
+  },
+  {
+    "id": "game_007",
+    "title": "ARK: Survival Ascended",
+    "description": "Виживання з динозаврами: приручайте, будуйте племʼя та воюйте з іншими.",
+    "genre": [
+      "Survival"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2399830/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2399830/ARK_Survival_Ascended/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/ark-survival-ascended/9p33vjgvphvp",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/ark-survival-ascended/9p33vjgvphvp",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "1645₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=qeiuokG0kdo",
+    "gameplayYtId": "qeiuokG0kdo",
+    "releaseYear": 2023,
+    "metacritic": null,
+    "steamScore": 57
+  },
+  {
+    "id": "game_008",
+    "title": "Hearts of Iron IV",
+    "description": "Гранд-стратегія Другої світової: разом ведіть альянси проти ворожих фракцій.",
+    "genre": [
+      "Strategy"
+    ],
+    "platform": [
+      "Windows",
+      "Mac"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/394360/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/",
+    "xboxConsoleUrl": null,
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "1349₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=fpketVYNlC8",
+    "gameplayYtId": "fpketVYNlC8",
+    "releaseYear": 2016,
+    "metacritic": 83,
+    "steamScore": 87
+  },
+  {
+    "id": "game_009",
+    "title": "7 Days to Die",
+    "description": "Зомбі-виживання: тримайте оборону вночі, розбудовуйте базу вдень.",
+    "genre": [
+      "Survival"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox",
+      "Mac"
+    ],
+    "wayToPlay": "Full cross-platform",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/251570/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/251570/7_Days_to_Die/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/7-days-to-die-console-edition-game-preview/9p6dwl7r6ntl",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/7-days-to-die-game-preview/9p0617ln3sf9",
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "835₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=XyJVa_k6e0w",
+    "gameplayYtId": "XyJVa_k6e0w",
+    "releaseYear": 2016,
+    "metacritic": 72,
+    "steamScore": 83
+  },
+  {
+    "id": "game_010",
+    "title": "Stellaris",
+    "description": "Космічна 4X: разом досліджуйте галактику або інтригуйте проти союзників.",
+    "genre": [
+      "Strategy"
+    ],
+    "platform": [
+      "Windows",
+      "Mac"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281990/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/281990/Stellaris/",
+    "xboxConsoleUrl": null,
+    "xboxPcUrl": "https://www.xbox.com/uk-UA/games/store/stellaris/9NXQPGMR917R/0010",
+    "otherUrl": null,
+    "gamePass": "PC",
+    "price": "1079₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=Pmha79EWPpo",
+    "gameplayYtId": "Pmha79EWPpo",
+    "releaseYear": 2016,
+    "metacritic": 81,
+    "steamScore": 82
+  },
+  {
+    "id": "game_011",
+    "title": "Rust",
+    "description": "Хардкорне виживання: будуйте, торгуйте, воюйте на ворожому острові.",
+    "genre": [
+      "Survival"
+    ],
+    "platform": [
+      "Windows",
+      "Mac"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/252490/Rust/",
+    "xboxConsoleUrl": null,
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "779₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=jw6UFiNMPRI",
+    "gameplayYtId": "jw6UFiNMPRI",
+    "releaseYear": 2018,
+    "metacritic": 69,
+    "steamScore": 82
+  },
+  {
+    "id": "game_012",
+    "title": "YAPYAP",
+    "description": "Магічний кооп-хорор: до 6 друзів — міньйони, які громлять башту мага.",
+    "genre": [
+      "Horror"
+    ],
+    "platform": [
+      "Windows",
+      "Mac"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3834090/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/3834090/YAPYAP/",
+    "xboxConsoleUrl": null,
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "225₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=mJA_KdgkTb4",
+    "gameplayYtId": "mJA_KdgkTb4",
+    "releaseYear": 2026,
+    "metacritic": null,
+    "steamScore": 84
+  },
+  {
+    "id": "game_013",
+    "title": "Project Zomboid",
+    "description": "Зомбі-виживання в ізометрії: разом виживайте, поки місто гниє.",
+    "genre": [
+      "Survival"
+    ],
+    "platform": [
+      "Windows",
+      "Mac"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/108600/Project_Zomboid/",
+    "xboxConsoleUrl": null,
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "415₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=iwOuCCP9B9c",
+    "gameplayYtId": "iwOuCCP9B9c",
+    "releaseYear": 2013,
+    "metacritic": null,
+    "steamScore": 93
+  },
+  {
+    "id": "game_014",
+    "title": "Bloons TD 6",
+    "description": "Tower defense проти куль і мавп: разом тримайте оборону на хвилях.",
+    "genre": [
+      "Tower Defense"
+    ],
+    "platform": [
+      "Windows",
+      "Mac"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/960090/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/960090/Bloons_TD_6/",
+    "xboxConsoleUrl": null,
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/bloons-td-6/9nddvjv54msc",
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "219₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=95Mcjel74qU",
+    "gameplayYtId": "95Mcjel74qU",
+    "releaseYear": 2018,
+    "metacritic": 88,
+    "steamScore": 96
+  },
+  {
+    "id": "game_015",
+    "title": "Fishing Planet",
+    "description": "Симулятор риболовлі: спокійно ловіть рибу й змагайтеся за трофеї.",
+    "genre": [
+      "Simulation"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox",
+      "Mac"
+    ],
+    "wayToPlay": "Full cross-platform",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/380600/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/380600/Fishing_Planet/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/fishing-planet/BVM002M8HH0S/0001",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/fishing-planet/bvm002m8hh0s",
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "0₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=9zhOCg535ws",
+    "gameplayYtId": "9zhOCg535ws",
+    "releaseYear": 2017,
+    "metacritic": null,
+    "steamScore": 79
+  },
+  {
+    "id": "game_016",
+    "title": "Old World",
+    "description": "Покрокова 4X: будуйте династії та змагайтеся в історичних сценаріях.",
+    "genre": [
+      "Strategy"
+    ],
+    "platform": [
+      "Windows",
+      "Mac"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/597180/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/597180/Old_World/",
+    "xboxConsoleUrl": null,
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "599₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=lZMCAjHRA-Y",
+    "gameplayYtId": "lZMCAjHRA-Y",
+    "releaseYear": 2022,
+    "metacritic": 80,
+    "steamScore": 82
+  },
+  {
+    "id": "game_017",
+    "title": "Valheim",
+    "description": "Вікінгське виживання: будуйте, плавайте й полюйте на босів удвох.",
+    "genre": [
+      "Survival"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox",
+      "Mac"
+    ],
+    "wayToPlay": "Full cross-platform",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/892970/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/892970/Valheim/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/valheim-game-preview/9ncbl78cg9n7",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/valheim-game-preview/9ncbl78cg9n7",
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "539₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=Wg0oYGKqdHU",
+    "gameplayYtId": "Wg0oYGKqdHU",
+    "releaseYear": 2021,
+    "metacritic": 86,
+    "steamScore": 95
+  },
+  {
+    "id": "game_018",
+    "title": "Barony",
+    "description": "Рогалик-данжен-кролер: проходьте підземелля разом у класичному стилі.",
+    "genre": [
+      "Roguelike"
+    ],
+    "platform": [
+      "Mac",
+      "Windows"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/371970/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/371970/Barony/",
+    "xboxConsoleUrl": null,
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "415₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=x1nYUaSU1CQ",
+    "gameplayYtId": "x1nYUaSU1CQ",
+    "releaseYear": 2015,
+    "metacritic": null,
+    "steamScore": 89
+  },
+  {
+    "id": "game_019",
+    "title": "Don't Starve Together",
+    "description": "Виживання в дивному світі: спільно полюйте, готуйте й тримайтеся разом.",
+    "genre": [
+      "Survival"
+    ],
+    "platform": [
+      "Windows",
+      "Mac"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322330/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/322330/Dont_Starve_Together/",
+    "xboxConsoleUrl": null,
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "229₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=NCte1UeULRU",
+    "gameplayYtId": "NCte1UeULRU",
+    "releaseYear": 2016,
+    "metacritic": 82,
+    "steamScore": 95
+  },
+  {
+    "id": "game_020",
+    "title": "Total War: WARHAMMER II",
+    "description": "Тактика з мініатюрами: ведіть фентезі-армії в епічних битвах.",
+    "genre": [
+      "Strategy"
+    ],
+    "platform": [
+      "Windows",
+      "Mac"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/594570/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/594570/Total_War_WARHAMMER_II/",
+    "xboxConsoleUrl": null,
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/total-war-warhammer-ii/9pdtfs72zq8d",
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "949₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=YbbCz_JBxpQ",
+    "gameplayYtId": "YbbCz_JBxpQ",
+    "releaseYear": 2017,
+    "metacritic": 86,
+    "steamScore": 87
+  },
+  {
+    "id": "game_021",
+    "title": "Total War: WARHAMMER",
+    "description": "Тактика з мініатюрами: ведіть фентезі-армії в епічних битвах.",
+    "genre": [
+      "Strategy"
+    ],
+    "platform": [
+      "Windows",
+      "Mac"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/364360/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/364360/Total_War_WARHAMMER/",
+    "xboxConsoleUrl": null,
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/total-war-warhammer/9n2vcd2lrfdc",
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "949₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=6az8JCLr-Ng",
+    "gameplayYtId": "6az8JCLr-Ng",
+    "releaseYear": 2016,
+    "metacritic": 86,
+    "steamScore": 85
+  },
+  {
+    "id": "game_022",
+    "title": "Escape Simulator 2",
+    "description": "Кооперативні квест-кімнати: розгадуйте головоломки разом на час.",
+    "genre": [
+      "Puzzle"
+    ],
+    "platform": [
+      "Windows",
+      "Mac"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2879840/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2879840/Escape_Simulator_2/",
+    "xboxConsoleUrl": null,
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "399₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=ouXPkjfj_C4",
+    "gameplayYtId": "ouXPkjfj_C4",
+    "releaseYear": 2021,
+    "metacritic": 82,
+    "steamScore": 93
+  },
+  {
+    "id": "game_023",
+    "title": "Unturned",
+    "description": "Виживання-пісочниця: будуйте, торгуйте й воюйте на величезних мапах.",
+    "genre": [
+      "Survival"
+    ],
+    "platform": [
+      "Windows",
+      "Mac"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/304930/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/304930/Unturned/",
+    "xboxConsoleUrl": null,
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "0₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=01cmrc8TelA",
+    "gameplayYtId": "01cmrc8TelA",
+    "releaseYear": 2017,
+    "metacritic": null,
+    "steamScore": 93
+  },
+  {
+    "id": "game_024",
+    "title": "Songs of Conquest",
+    "description": "Покрокова стратегія в стилі казки: ведіть фракції до перемоги.",
+    "genre": [
+      "Strategy"
+    ],
+    "platform": [
+      "Windows",
+      "Mac"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/867210/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/867210/Songs_of_Conquest/",
+    "xboxConsoleUrl": null,
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "600₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=Tu3qa6mRPMA",
+    "gameplayYtId": "Tu3qa6mRPMA",
+    "releaseYear": 2024,
+    "metacritic": 80,
+    "steamScore": 82
+  },
+  {
+    "id": "game_025",
+    "title": "The Elder Scrolls® Online",
+    "description": "MMORPG у світі Скайриму: проходьте сюжет і данжі разом.",
+    "genre": [
+      "MMORPG"
+    ],
+    "platform": [
+      "Windows",
+      "Mac"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/306130/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/",
+    "xboxConsoleUrl": null,
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "599₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=2cEB0emBF1s",
+    "gameplayYtId": "2cEB0emBF1s",
+    "releaseYear": 2014,
+    "metacritic": 82,
+    "steamScore": 80
+  },
+  {
+    "id": "game_026",
+    "title": "ARC Raiders",
+    "description": "PvPvE-екстракшн-шутер: грабуйте, ховайтеся від машин, виживайте разом.",
+    "genre": [
+      "Shooter"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1808500/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1808500/ARC_Raiders/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/arc-raiders/9ndf1f263rz4",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/arc-raiders/9ndf1f263rz4",
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "1161₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=H8LxTCdD1Fc",
+    "gameplayYtId": "H8LxTCdD1Fc",
+    "releaseYear": 2025,
+    "metacritic": 86,
+    "steamScore": 82
+  },
+  {
+    "id": "game_027",
+    "title": "State of Decay 2: Juggernaut Edition",
+    "description": "Зомбі-виживання з машинами: разом захищайте громаду від орд.",
+    "genre": [
+      "Survival"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/495420/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/495420/State_of_Decay_2_Juggernaut_Edition/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/state-of-decay-2-juggernaut-edition/9nt4x7p8b9nb",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/state-of-decay-2-juggernaut-edition/9nt4x7p8b9nb",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "379₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=nbR4Q1YkZ1U",
+    "gameplayYtId": "nbR4Q1YkZ1U",
+    "releaseYear": 2020,
+    "metacritic": 78,
+    "steamScore": 81
+  },
+  {
+    "id": "game_028",
+    "title": "Chivalry 2",
+    "description": "Середньовічний слешер: 64 гравці в епічних битвах на мечах.",
+    "genre": [
+      "Melee Combat"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1824220/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1824220/Chivalry_2/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/chivalry-2/9n7cjx93zgwn",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/chivalry-2/9n7cjx93zgwn",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "479₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=ejavLQ7bTA0",
+    "gameplayYtId": "ejavLQ7bTA0",
+    "releaseYear": 2021,
+    "metacritic": 76,
+    "steamScore": 82
+  },
+  {
+    "id": "game_029",
+    "title": "Monster Hunter Rise + Sunbreak",
+    "description": "Полювання на монстрів: вистежуйте велетенських звірів разом.",
+    "genre": [
+      "Action RPG"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "",
+    "steamUrl": null,
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/monster-hunter-rise-sunbreak/9PJN16LJZ41M/0010",
+    "xboxPcUrl": "https://www.xbox.com/uk-UA/games/store/monster-hunter-rise-sunbreak/9PJN16LJZ41M/0010",
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "399₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=Fl037mM71Vo",
+    "gameplayYtId": "Fl037mM71Vo",
+    "releaseYear": 2021,
+    "metacritic": 71,
+    "steamScore": 91
+  },
+  {
+    "id": "game_030",
+    "title": "Wartales",
+    "description": "Тактична RPG: ведіть найманців середньовічною Європою разом.",
+    "genre": [
+      "Tactical RPG"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1527950/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1527950/Wartales/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/wartales/9NWQ686JB33G/0010",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/wartales/9nwq686jb33g",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "628₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=A8BRnaVzfUo",
+    "gameplayYtId": "A8BRnaVzfUo",
+    "releaseYear": 2023,
+    "metacritic": 78,
+    "steamScore": 82
+  },
+  {
+    "id": "game_031",
+    "title": "THE FINALS",
+    "description": "Швидкий 3v3v3 шутер: руйнівні арени та видовищні бої.",
+    "genre": [
+      "Shooter"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2073850/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2073850/THE_FINALS/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/the-finals/9pgd71cmds0z",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/the-finals/9pgd71cmds0z",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "0₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=CcAj4SllI5M",
+    "gameplayYtId": "CcAj4SllI5M",
+    "releaseYear": 2023,
+    "metacritic": 80,
+    "steamScore": 83
+  },
+  {
+    "id": "game_032",
+    "title": "Asphalt Legends",
+    "description": "Аркадні гонки: змагайтеся з друзями на трасах усього світу.",
+    "genre": [
+      "Racing"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1815780/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1815780/Asphalt_Legends/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/asphalt-legends/9nzqpt0mwtd0",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/asphalt-legends/9nzqpt0mwtd0",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "0₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=zX5Co1hq7dc",
+    "gameplayYtId": "zX5Co1hq7dc",
+    "releaseYear": 2024,
+    "metacritic": 64,
+    "steamScore": null
+  },
+  {
+    "id": "game_033",
+    "title": "Content Warning",
+    "description": "Хорор-кооп з камерою: знімайте моторошне відео й виживайте разом.",
+    "genre": [
+      "Horror"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2881650/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2881650/Content_Warning/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/content-warning/9mw267200n81",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/content-warning/9mw267200n81",
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "154₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=m1jZ3SqY0I0",
+    "gameplayYtId": "m1jZ3SqY0I0",
+    "releaseYear": 2024,
+    "metacritic": null,
+    "steamScore": 95
+  },
+  {
+    "id": "game_034",
+    "title": "Tony Hawk's™ Pro Skater™ 3 + 4",
+    "description": "Аркадний скейтборд: робіть трюки й комбо разом на культових локаціях.",
+    "genre": [
+      "Sports"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2545710/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2545710/Tony_Hawks_Pro_Skater_3__4/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/tony-hawks-pro-skater-3-4/9N1WK33QNSRJ/0010",
+    "xboxPcUrl": "https://www.xbox.com/uk-UA/games/store/tony-hawks-pro-skater-3-4/9N1WK33QNSRJ/0010",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "2096₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=D7pzivoZV94",
+    "gameplayYtId": "D7pzivoZV94",
+    "releaseYear": 2025,
+    "metacritic": 84,
+    "steamScore": 89
+  },
+  {
+    "id": "game_035",
+    "title": "Back 4 Blood",
+    "description": "Кооп-шутер про зомбі: четверо проти орд інфікованих.",
+    "genre": [
+      "Shooter"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/924970/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/924970/Back_4_Blood/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/back-4-blood-ultimate-edition/9NRSBXFHS9WC/0010",
+    "xboxPcUrl": "https://www.xbox.com/uk-UA/games/store/back-4-blood-ultimate-edition/9NRSBXFHS9WC/0010",
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "749₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=xcGJpUuFCbA",
+    "gameplayYtId": "xcGJpUuFCbA",
+    "releaseYear": 2021,
+    "metacritic": 73,
+    "steamScore": 79
+  },
+  {
+    "id": "game_036",
+    "title": "REANIMAL",
+    "description": "Кооп-хорор від творців Little Nightmares: брат і сестра рятують друзів на острові жахів.",
+    "genre": [
+      "Horror"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2129530/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2129530/REANIMAL/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/reanimal/9n67dhnp2m0t",
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "740₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=ey4MJB45oYA",
+    "gameplayYtId": "ey4MJB45oYA",
+    "releaseYear": 2026,
+    "metacritic": 79,
+    "steamScore": 86
+  },
+  {
+    "id": "game_037",
+    "title": "Wo Long: Fallen Dynasty",
+    "description": "Souls-екшен у Китаї: разом долайте демонів і босів.",
+    "genre": [
+      "Action RPG"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "",
+    "steamUrl": null,
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/wo-long-fallen-dynasty/9N9X9PC8V9CP/0010",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/wo-long-fallen-dynasty/9n9x9pc8v9cp",
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "1030₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=TkCl_Dg-o3I",
+    "gameplayYtId": "TkCl_Dg-o3I",
+    "releaseYear": 2023,
+    "metacritic": 76,
+    "steamScore": 73
+  },
+  {
+    "id": "game_038",
+    "title": "Battlefield™ 6",
+    "description": "Військовий шутер: масштабні бої з технікою й руйнуванням.",
+    "genre": [
+      "Shooter"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2807960/Battlefield_6/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/battlefield-6/9p2ff14jzll3",
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "1699₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=3KB_GTLjB0c",
+    "gameplayYtId": "3KB_GTLjB0c",
+    "releaseYear": 2025,
+    "metacritic": 83,
+    "steamScore": 84
+  },
+  {
+    "id": "game_039",
+    "title": "Battlefield™ 2042",
+    "description": "Військовий шутер: 128-гравцеві бої у відкритих сценаріях.",
+    "genre": [
+      "Shooter"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1517290/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1517290/Battlefield_2042/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/battlefield-2042-xbox-series-x-s/9p0t51bddwvt",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/battlefield-2042/9n8c8l9mvq89",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "1499₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=ThwO9aUSOu0",
+    "gameplayYtId": "ThwO9aUSOu0",
+    "releaseYear": 2021,
+    "metacritic": 68,
+    "steamScore": 56
+  },
+  {
+    "id": "game_040",
+    "title": "WILD HEARTS™",
+    "description": "Полювання на монстрів у фентезі-Японії: разом валите велетенських звірів.",
+    "genre": [
+      "Action RPG"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1938010/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1938010/WILD_HEARTS/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/wild-hearts-standard-edition/9NTFPTBXDDT3/0010",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/wild-hearts/9nft3tr6mn9w",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "1699₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=D0BVYlJm_sA",
+    "gameplayYtId": "D0BVYlJm_sA",
+    "releaseYear": 2023,
+    "metacritic": 68,
+    "steamScore": null
+  },
+  {
+    "id": "game_041",
+    "title": "F1® 25",
+    "description": "Сімулятор Формули-1: змагайтеся в гонках і керуйте командою.",
+    "genre": [
+      "Racing"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3059520/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/3059520/F1_25/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/f1-25/9nwpw7f19fs5",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/f1-25/9p1q06wqv414",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "1499₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=eYoOdjnoTsA",
+    "gameplayYtId": "eYoOdjnoTsA",
+    "releaseYear": 2025,
+    "metacritic": null,
+    "steamScore": null
+  },
+  {
+    "id": "game_042",
+    "title": "EA SPORTS™ WRC",
+    "description": "Раллі-симулятор: проходьте етапи разом або гонитеся за часом.",
+    "genre": [
+      "Racing"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1849250/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1849250/EA_SPORTS_WRC/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/ea-sports-wrc/9n9pdj7z8s2r",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/ea-sports-wrc/9nrdh9z85q9b",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "1299₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=qv1x8tWO-cI",
+    "gameplayYtId": "qv1x8tWO-cI",
+    "releaseYear": 2023,
+    "metacritic": 78,
+    "steamScore": null
+  },
+  {
+    "id": "game_043",
+    "title": "Need for Speed™ Unbound",
+    "description": "Стріт-рейсинг з вайбом: тікайте від копів і змагайтеся за стиль.",
+    "genre": [
+      "Racing"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1846380/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1846380/Need_for_Speed_Unbound/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/need-for-speed-unbound/9pp837l3q75d",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/need-for-speed-unbound/9pctjzrlv21g",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "1699₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=-yToaJ0wzPU",
+    "gameplayYtId": "-yToaJ0wzPU",
+    "releaseYear": 2022,
+    "metacritic": 82,
+    "steamScore": null
+  },
+  {
+    "id": "game_044",
+    "title": "Diablo® IV",
+    "description": "Action-RPG: разом зачищайте підземелля й полюйте на лут.",
+    "genre": [
+      "Action RPG"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2344520/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2344520/Diablo_IV/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/diablo-iv/9NQRCD3W41L3/0010",
+    "xboxPcUrl": "https://www.xbox.com/en-US/games/store/diablo-iv-pc/9N0H62KZ3BXV/0010",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "1696₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=yX5CvXQYQ3A",
+    "gameplayYtId": "yX5CvXQYQ3A",
+    "releaseYear": 2023,
+    "metacritic": 88,
+    "steamScore": 87
+  },
+  {
+    "id": "game_045",
+    "title": "Overwatch®",
+    "description": "Командний герой-шутер 5v5: координація і ролі вирішують усе.",
+    "genre": [
+      "Shooter"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2357570/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2357570/Overwatch/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/overwatch/c1c4dzjpbc2v",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/overwatch-pc/9p36dqx6w9cs",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "0₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=hHGr8dVDnR8",
+    "gameplayYtId": "hHGr8dVDnR8",
+    "releaseYear": 2016,
+    "metacritic": 91,
+    "steamScore": null
+  },
+  {
+    "id": "game_046",
+    "title": "Hearthstone",
+    "description": "Карткова стратегія: дуелюйтеся з друзями в швидких партіях.",
+    "genre": [
+      "Card Game"
+    ],
+    "platform": [
+      "Windows",
+      "Mac"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "",
+    "steamUrl": null,
+    "xboxConsoleUrl": null,
+    "xboxPcUrl": null,
+    "otherUrl": "https://eu.shop.battle.net/en-us/product/hearthstone",
+    "gamePass": null,
+    "price": "0₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=BJmfXofCAGQ",
+    "gameplayYtId": "BJmfXofCAGQ",
+    "releaseYear": 2014,
+    "metacritic": 88,
+    "steamScore": null
+  },
+  {
+    "id": "game_047",
+    "title": "Sea of Thieves",
+    "description": "Піратська пригода: ходіть під вітрилом і шукайте скарби командою.",
+    "genre": [
+      "Adventure"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172620/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1172620/Sea_of_Thieves_2026_Edition/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/sea-of-thieves-2026-edition/9P2N57MC619K/0010",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/sea-of-thieves-2026-edition/9p2n57mc619k",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "1030₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=F5nu50v-iE8",
+    "gameplayYtId": "F5nu50v-iE8",
+    "releaseYear": 2018,
+    "metacritic": 85,
+    "steamScore": 91
+  },
+  {
+    "id": "game_048",
+    "title": "Call of Duty®: Black Ops 7",
+    "description": "Військовий шутер: класичний CoD у командних режимах.",
+    "genre": [
+      "Shooter"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3606480/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/3606480/Call_of_Duty_Black_Ops_7/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/call-of-duty-black-ops-7-cross-gen-bundle/9N8KMNW6942X/0010",
+    "xboxPcUrl": "https://www.xbox.com/uk-UA/games/store/call-of-duty-black-ops-7-cross-gen-bundle/9N8KMNW6942X/0010",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "3399₴",
+    "gameplayUrl": "https://youtu.be/1gZFk2Ojb2A",
+    "gameplayYtId": "1gZFk2Ojb2A",
+    "releaseYear": 2025,
+    "metacritic": 84,
+    "steamScore": 76
+  },
+  {
+    "id": "game_049",
+    "title": "Anno 117: Pax Romana",
+    "description": "Стратегія розбудови міст: розвивайте Римську імперію разом.",
+    "genre": [
+      "Strategy"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3274580/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/3274580/Anno_117_Pax_Romana/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/anno-117-pax-romana/9NRJ3KNT0JRK",
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": "Xbox",
+    "price": "1719₴",
+    "gameplayUrl": "https://youtu.be/sl9ztasFLMU",
+    "gameplayYtId": "sl9ztasFLMU",
+    "releaseYear": 2025,
+    "metacritic": 84,
+    "steamScore": 79
+  },
+  {
+    "id": "game_050",
+    "title": "For Honor",
+    "description": "Середньовічний бій 4v4: командна тактика і фракційна війна.",
+    "genre": [
+      "Melee Combat"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/304390/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/304390/FOR_HONOR/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/for-honor/c3hqkx3b35pd",
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": "Xbox",
+    "price": "459₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=CWVwH722uTc",
+    "gameplayYtId": "CWVwH722uTc",
+    "releaseYear": 2017,
+    "metacritic": 72,
+    "steamScore": null
+  },
+  {
+    "id": "game_051",
+    "title": "Riders Republic",
+    "description": "Екстремальний спорт у відкритому світі: змагайтеся й катайтеся разом.",
+    "genre": [
+      "Sports"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2290180/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2290180/Riders_Republic/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/riders-republic/9p1rpxhwz1c7",
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": "Xbox",
+    "price": "869₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=RfbRyXQm-FE",
+    "gameplayYtId": "RfbRyXQm-FE",
+    "releaseYear": 2021,
+    "metacritic": 73,
+    "steamScore": null
+  },
+  {
+    "id": "game_052",
+    "title": "Roller Champions™",
+    "description": "Командна спортивна аркада: 3v3 на роликах за м'яч.",
+    "genre": [
+      "Sports"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2211280/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2211280/Roller_Champions/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/ubisoft/9NHMS63FGKC0",
+    "xboxPcUrl": null,
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "0₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=PDLbQro41Ds",
+    "gameplayYtId": "PDLbQro41Ds",
+    "releaseYear": 2022,
+    "metacritic": null,
+    "steamScore": null
+  },
+  {
+    "id": "game_053",
+    "title": "The Settlers: New Allies",
+    "description": "Стратегія розбудови поселень: будуйте економіку разом.",
+    "genre": [
+      "Strategy"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2750080/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2750080/The_Settlers_New_Allies/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/the-settlers-new-allies/9NPGPDCXWJQ7/0010",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/the-settlers-new-allies/9n10hhmxffc5",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "1139₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=Nm_ZjP1OKag",
+    "gameplayYtId": "Nm_ZjP1OKag",
+    "releaseYear": 2023,
+    "metacritic": 68,
+    "steamScore": null
+  },
+  {
+    "id": "game_054",
+    "title": "Brawlhalla",
+    "description": "Платформер-файтинг: швидкі бої до 8 гравців на одній арені.",
+    "genre": [
+      "Fighting"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox",
+      "Mac"
+    ],
+    "wayToPlay": "Full cross-platform",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/291550/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/291550/Brawlhalla/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/brawlhalla/c3b1v55cdl0c",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/brawlhalla/9MXMZ39GVHPG",
+    "otherUrl": null,
+    "gamePass": null,
+    "price": "0₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=ICRtNGMpgNU",
+    "gameplayYtId": "ICRtNGMpgNU",
+    "releaseYear": 2017,
+    "metacritic": 74,
+    "steamScore": 86
+  },
+  {
+    "id": "game_055",
+    "title": "Skull and Bones",
+    "description": "Піратський екшен: керуйте кораблями і грабуйте разом.",
+    "genre": [
+      "Action"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2853730/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2853730/Skull_and_Bones/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/skull-and-bones/bxf9vwkcd6qw",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/skull-and-bones/9p7x7vl05k48",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "859₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=RV3Mvkcmo-A",
+    "gameplayYtId": "RV3Mvkcmo-A",
+    "releaseYear": 2024,
+    "metacritic": 60,
+    "steamScore": 63
+  },
+  {
+    "id": "game_056",
+    "title": "Tom Clancy's Rainbow Six Extraction",
+    "description": "Кооп-шутер про карантин: четверо оперативників проти прибульців.",
+    "genre": [
+      "Shooter"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2379390/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/2379390/Tom_Clancys_Rainbow_Six_Extraction/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/tom-clancys-rainbow-six-extraction/bxrb4zh2gjhk",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/tom-clancys-rainbow-six-extraction/9nk1fqj1smcb",
+    "otherUrl": null,
+    "gamePass": "Xbox+PC",
+    "price": "610₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=ajnmAvt0_is",
+    "gameplayYtId": "ajnmAvt0_is",
+    "releaseYear": 2022,
+    "metacritic": 73,
+    "steamScore": null
+  },
+  {
+    "id": "game_057",
+    "title": "Minecraft",
+    "description": "Пісочниця-крафтилка: будуйте, досліджуйте, виживайте разом.",
+    "genre": [
+      "Sandbox"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "",
+    "steamUrl": null,
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/minecraft/9MVXMVT8ZKWC",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/minecraft/9mvxmvt8zkwc",
+    "otherUrl": "https://www.minecraft.net/en-us/store/minecraft-java-bedrock-edition-pc",
+    "gamePass": "Xbox+PC",
+    "price": "1300₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=vYDHWrhJnoE",
+    "gameplayYtId": "vYDHWrhJnoE",
+    "releaseYear": 2011,
+    "metacritic": 93,
+    "steamScore": 94
+  },
+  {
+    "id": "game_058",
+    "title": "Minecraft Dungeons",
+    "description": "Кооп-данжен-кролер: 1-4 героїв проти підземель Майнкрафта.",
+    "genre": [
+      "Dungeon Crawler"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1672970/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1672970/Minecraft_Dungeons/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/minecraft-dungeons/9N8NJ74FZTG9/0010",
+    "xboxPcUrl": "https://www.xbox.com/uk-UA/games/store/minecraft-dungeons-for-windows/9P8MK4NC0LJB/0010",
+    "otherUrl": "https://www.minecraft.net/en-us/store/minecraft-dungeons",
+    "gamePass": "Xbox+PC",
+    "price": "505₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=JnsniKxwxiM",
+    "gameplayYtId": "JnsniKxwxiM",
+    "releaseYear": 2020,
+    "metacritic": 76,
+    "steamScore": 87
+  },
+  {
+    "id": "game_059",
+    "title": "Minecraft Legends",
+    "description": "RTS у світі Майнкрафта: ведіть війська проти ворожих фракцій.",
+    "genre": [
+      "Strategy"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1928870/header.jpg",
+    "steamUrl": "https://store.steampowered.com/app/1928870/Minecraft_Legends/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/minecraft-legends/9nf0d13rpx5l",
+    "xboxPcUrl": "https://www.xbox.com/uk-UA/games/store/minecraft-legends-windows/9N98Z825TNFW/0010",
+    "otherUrl": "https://www.minecraft.net/en-us/store/minecraft-legends",
+    "gamePass": "Xbox+PC",
+    "price": "740₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=MLz1Q0tkNR0",
+    "gameplayYtId": "MLz1Q0tkNR0",
+    "releaseYear": 2023,
+    "metacritic": 72,
+    "steamScore": 78
+  },
+  {
+    "id": "game_060",
+    "title": "Rocket League ®",
+    "description": "Аркадний футбол на машинах: швидкі матчи 3v3 з фізикою.",
+    "genre": [
+      "Sports"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "",
+    "steamUrl": null,
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/Rocket-League/C125W9BG2K0V",
+    "xboxPcUrl": null,
+    "otherUrl": "https://store.epicgames.com/en-US/p/rocket-league",
+    "gamePass": null,
+    "price": "0₴",
+    "gameplayUrl": "https://youtu.be/uW6FfDdVOJE",
+    "gameplayYtId": "uW6FfDdVOJE",
+    "releaseYear": 2015,
+    "metacritic": 86,
+    "steamScore": null
+  },
+  {
+    "id": "game_061",
+    "title": "Fall Guys",
+    "description": "Хаотичний батл-роял: 60 гравців на смугах перешкод.",
+    "genre": [
+      "Battle Royale"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "",
+    "steamUrl": null,
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/fall-guys/9pmxh5249dg5",
+    "xboxPcUrl": null,
+    "otherUrl": "https://store.epicgames.com/en-US/p/fall-guys",
+    "gamePass": null,
+    "price": "0₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=9j-eu4RvHgM",
+    "gameplayYtId": "9j-eu4RvHgM",
+    "releaseYear": 2020,
+    "metacritic": 81,
+    "steamScore": null
+  },
+  {
+    "id": "game_062",
+    "title": "Fortnite",
+    "description": "Батл-роял і пісочниця: будуйте, бийтеся, виживайте разом.",
+    "genre": [
+      "Battle Royale"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "",
+    "steamUrl": null,
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/fortnite/bt5p2x999vh2",
+    "xboxPcUrl": null,
+    "otherUrl": "https://store.epicgames.com/en-US/p/fortnite",
+    "gamePass": null,
+    "price": "0₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=dI2EZ6RU_sY",
+    "gameplayYtId": "dI2EZ6RU_sY",
+    "releaseYear": 2017,
+    "metacritic": 81,
+    "steamScore": null
+  }
+]

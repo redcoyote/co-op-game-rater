@@ -1,0 +1,61 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --color-bg: #0f0f13;
+  --color-surface: #1a1a24;
+  --color-surface-hover: #22222f;
+  --color-border: #2e2e3e;
+  --color-text: #e8e8f0;
+  --color-text-muted: #888899;
+  --color-accent: #7c6af7;
+  --color-accent-hover: #9585ff;
+  --color-success: #4caf82;
+  --color-danger: #e05c6e;
+  --radius: 12px;
+  --radius-sm: 8px;
+  --font: 'Inter', system-ui, sans-serif;
+}
+
+html, body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font);
+  font-size: 16px;
+  line-height: 1.5;
+  min-height: 100dvh;
+}
+
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--color-accent-hover);
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+}
+
+input, button {
+  font-size: 1rem;
+}
+
+/* Утилітарні класи */
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.page {
+  padding: 40px 20px;
+  max-width: 1100px;
+  margin: 0 auto;
+}

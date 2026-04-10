@@ -1,0 +1,240 @@
+.page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 24px 80px;
+}
+
+.header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 24px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 6px;
+}
+
+.subtitle {
+  font-size: 1rem;
+  color: var(--color-text-muted);
+}
+
+.submitBtn {
+  background: var(--color-success);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius-sm);
+  padding: 12px 24px;
+  font-size: 1rem;
+  font-weight: 600;
+  white-space: nowrap;
+  transition: opacity 0.2s;
+  flex-shrink: 0;
+}
+
+.submitBtn:hover:not(:disabled) {
+  opacity: 0.85;
+}
+
+.submitBtn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.headerActions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-shrink: 0;
+}
+
+/* ── Кнопка перемикача режиму ───────────────────────────────────────────────── */
+.modeToggleBtn {
+  background: transparent;
+  color: var(--color-text-muted);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: 10px 18px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  transition: border-color 0.2s, color 0.2s;
+  white-space: nowrap;
+}
+
+.modeToggleBtn:hover {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+
+/* ── Card mode layout ───────────────────────────────────────────────────────── */
+.cardModePage {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+.cardModeHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 24px;
+  border-bottom: 1px solid var(--color-border);
+  gap: 16px;
+}
+
+.cardCounter {
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Прогрес-бар */
+.progressBar {
+  height: 3px;
+  background: var(--color-border);
+}
+
+.progressFill {
+  height: 100%;
+  background: var(--color-accent);
+  transition: width 0.3s ease;
+}
+
+/* Центрована картка */
+.cardModeContent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 32px 24px 48px;
+  gap: 24px;
+}
+
+.cardModeCard {
+  width: 100%;
+  max-width: 480px;
+}
+
+/* Навігація */
+.cardNav {
+  display: flex;
+  gap: 12px;
+  width: 100%;
+  max-width: 480px;
+}
+
+.cardNavBtn {
+  flex: 1;
+  padding: 14px;
+  border-radius: var(--radius-sm);
+  font-size: 1rem;
+  font-weight: 600;
+  border: 1px solid var(--color-border);
+  background: var(--color-surface);
+  color: var(--color-text-muted);
+  transition: border-color 0.2s, color 0.2s, background 0.2s;
+}
+
+.cardNavBtn:hover:not(:disabled) {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+
+.cardNavBtn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+.cardNavNext {
+  background: var(--color-accent);
+  border-color: var(--color-accent);
+  color: #fff;
+}
+
+.cardNavNext:hover:not(:disabled) {
+  background: var(--color-accent-hover);
+  border-color: var(--color-accent-hover);
+  color: #fff;
+}
+
+/* Екран нікнейму */
+.nicknamePage {
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.nicknameCard {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 40px 32px;
+  max-width: 420px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  text-align: center;
+}
+
+.nicknameCard h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.nicknameCard p {
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+}
+
+.nicknameInput {
+  background: var(--color-surface-hover);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  color: var(--color-text);
+  padding: 12px 16px;
+  font-size: 1rem;
+  width: 100%;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.nicknameInput:focus {
+  border-color: var(--color-accent);
+}
+
+.nicknameBtn {
+  background: var(--color-accent);
+  color: #fff;
+  border: none;
+  border-radius: var(--radius-sm);
+  padding: 12px;
+  font-size: 1rem;
+  font-weight: 600;
+  width: 100%;
+  transition: background 0.2s;
+}
+
+.nicknameBtn:hover:not(:disabled) {
+  background: var(--color-accent-hover);
+}
+
+.nicknameBtn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
