@@ -238,3 +238,13 @@
   opacity: 0.4;
   cursor: not-allowed;
 }
+
+/* Важливо: .nicknameCard p має вищу специфічність (клас + елемент),
+   тому доводиться або підвищувати специфічність нашого селектора,
+   або перебивати колір явно. Використовуємо вкладений селектор. */
+.nicknameCard p.nicknameErr {
+  color: #ff6b6b;
+  font-size: 0.85rem;
+  margin: -4px 0 0;
+  text-align: left;
+}

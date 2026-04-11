@@ -1,7 +1,8 @@
 import { useState, useEffect } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
-import { collection, getDocs } from 'firebase/firestore'
-import { db } from '../firebase'
+import { collection, doc, deleteDoc, getDocs } from 'firebase/firestore'
+import { db, ensureSignedIn } from '../firebase'
+import { clearOwnedNickname } from '../lib/ownership'
 import games from '../data/games.json'
 import GameCard from '../components/GameCard'
 import styles from './ResultsPage.module.css'
@@ -13,6 +14,7 @@ export default function ResultsPage() {
   const [scores, setScores] = useState([])    // [{ gameId, avg, ratings: {nick: val} }]
   const [participants, setParticipants] = useState([])
   const [loading, setLoading] = useState(true)
+  const [viewMode, setViewMode] = useState('grid')
 
   const myNickname = localStorage.getItem('gr_nickname')
 
@@ -68,6 +70,25 @@ export default function ResultsPage() {
     fetchResults()
   }, [sessionId])
 
+  // Видаляємо свій запис з Firestore і повертаємось на екран введення імені.
+  // Використовується кнопкою "Скинути мої оцінки".
+  async function handleReset() {
+    if (!myNickname) return
+    const ok = window.confirm(
+      'Видалити твої оцінки з цієї сесії? Це незворотно.'
+    )
+    if (!ok) return
+    try {
+      await ensureSignedIn()
+      await deleteDoc(doc(db, 'sessions', sessionId, 'scores', myNickname))
+      clearOwnedNickname(sessionId)
+      navigate(`/session/${sessionId}`)
+    } catch (err) {
+      console.error('Помилка скидання:', err)
+      alert('Не вдалося скинути оцінки. Перевір консоль.')
+    }
+  }
+
   // Копіюємо посилання на сесію
   function copyLink() {
     const url = `${window.location.origin}${window.location.pathname}#/session/${sessionId}`
@@ -96,15 +117,30 @@ export default function ResultsPage() {
           </p>
         </div>
         <div className={styles.actions}>
+          <button
+            className={styles.toggleBtn}
+            onClick={() => setViewMode(v => v === 'grid' ? 'list' : 'grid')}
+          >
+            {viewMode === 'grid' ? '☰ Список' : '⊞ Грід'}
+          </button>
           <button className={styles.copyBtn} onClick={copyLink}>
             Поділитись посиланням
           </button>
           <button
             className={styles.rateBtn}
-            onClick={() => navigate(`/session/${sessionId}`)}
+            onClick={() =>
+              navigate(`/session/${sessionId}`, {
+                state: { reRate: Boolean(myNickname) },
+              })
+            }
           >
             {myNickname ? 'Переоцінити' : 'Оцінити'}
           </button>
+          {myNickname && participants.includes(myNickname) && (
+            <button className={styles.resetBtn} onClick={handleReset}>
+              Скинути мої оцінки
+            </button>
+          )}
         </div>
       </header>
 
@@ -112,7 +148,7 @@ export default function ResultsPage() {
         <div className={styles.empty}>
           <p>Поділись посиланням з другом — хай оцінить ігри</p>
         </div>
-      ) : (
+      ) : viewMode === 'grid' ? (
         <div className={styles.grid}>
           {scores.map(({ game, avg, ratings }, index) => (
             <div key={game.id} className={styles.cardWrapper}>
@@ -122,7 +158,6 @@ export default function ResultsPage() {
                 </div>
               )}
               <GameCard game={game} rating={avg} />
-              {/* Оцінки по кожному учаснику */}
               {Object.keys(ratings).length > 0 && (
                 <div className={styles.breakdown}>
                   {Object.entries(ratings).map(([nick, val]) => (
@@ -138,6 +173,18 @@ export default function ResultsPage() {
             </div>
           ))}
         </div>
+      ) : (
+        <ol className={styles.list}>
+          {scores.map(({ game, avg }, index) => (
+            <li key={game.id} className={styles.listItem}>
+              <span className={styles.listRank}>{index + 1}</span>
+              <span className={styles.listTitle}>{game.title}</span>
+              {avg != null && (
+                <span className={styles.listAvg}>{avg.toFixed(1)}</span>
+              )}
+            </li>
+          ))}
+        </ol>
       )}
     </div>
   )

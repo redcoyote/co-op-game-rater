@@ -1,65 +1,37 @@
 import { initializeApp } from 'firebase/app'
 import { getFirestore } from 'firebase/firestore'
-import { getAuth, signInAnonymously, onAuthStateChanged } from 'firebase/auth'
-import { getAnalytics } from "firebase/analytics";
-// ─────────────────────────────────────────────────────────────────────────────
-// КРОКИ ДЛЯ НАЛАШТУВАННЯ:
-//
-// 1. Йди на https://console.firebase.google.com
-// 2. Створи новий проект (або відкрий існуючий)
-// 3. Project Settings → General → Your apps → Add app → Web (</>)
-// 4. Скопіюй firebaseConfig нижче і заміни значення
-//
-// 5. Увімкни Anonymous Auth:
-//    Authentication → Sign-in method → Anonymous → Enable
-//
-// 6. Створи Firestore базу:
-//    Firestore Database → Create database → Start in test mode
-//    (після цього налаштуй rules — дивись нижче)
-//
-// FIRESTORE RULES (скопіюй у Firestore → Rules):
-//
-//    rules_version = '2';
-//    service cloud.firestore {
-//      match /databases/{database}/documents {
-//        match /sessions/{sessionId} {
-//          allow read, write: if request.auth != null;
-//          match /scores/{nickname} {
-//            allow read: if request.auth != null;
-//            allow write: if request.auth != null;
-//          }
-//        }
-//      }
-//    }
-// ─────────────────────────────────────────────────────────────────────────────
+import { getAuth, signInAnonymously } from 'firebase/auth'
+import { getAnalytics } from 'firebase/analytics'
 
+// Конфіг читається з .env (префікс VITE_ обов'язковий — інакше Vite не віддасть
+// змінну в клієнтський бандл). Див. .env.example для списку потрібних змінних.
 const firebaseConfig = {
-  apiKey: "AIzaSyDzd3p2ZC0ismQdUzUivhlmnPXAru6XlxQ",
-  authDomain: "co-op-game-rater.firebaseapp.com",
-  projectId: "co-op-game-rater",
-  storageBucket: "co-op-game-rater.firebasestorage.app",
-  messagingSenderId: "306229239130",
-  appId: "1:306229239130:web:4162b3553b507b9edfe763",
-  measurementId: "G-7CMJPP2XZS"
-};
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
+  storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
+  appId: import.meta.env.VITE_FIREBASE_APP_ID,
+  measurementId: import.meta.env.VITE_FIREBASE_MEASUREMENT_ID,
+}
 
-const app = initializeApp(firebaseConfig);
-const analytics = getAnalytics(app);
+// Швидка перевірка в dev-режимі: якщо хтось забув створити .env — одразу видно.
+if (import.meta.env.DEV && !firebaseConfig.apiKey) {
+  console.error(
+    '[firebase] VITE_FIREBASE_* env vars не знайдено. Скопіюй .env.example → .env'
+  )
+}
+
+const app = initializeApp(firebaseConfig)
+const analytics = getAnalytics(app)
 
 export const db = getFirestore(app)
 export const auth = getAuth(app)
 
-// Функція для анонімного входу — викликається при першому запуску
-export async function signInAnon() {
-  return new Promise((resolve, reject) => {
-    onAuthStateChanged(auth, (user) => {
-      if (user) {
-        resolve(user)
-      } else {
-        signInAnonymously(auth)
-          .then((cred) => resolve(cred.user))
-          .catch(reject)
-      }
-    })
-  })
+// Переконується, що у нас є залогінений Firebase-юзер.
+// Якщо є — повертає його одразу. Якщо нема — робить анонімний логін.
+export async function ensureSignedIn() {
+  if (auth.currentUser) return auth.currentUser
+  const cred = await signInAnonymously(auth)
+  return cred.user
 }

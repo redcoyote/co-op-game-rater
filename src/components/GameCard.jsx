@@ -155,6 +155,8 @@ export default function GameCard({ game, rating, onRate }) {
               value={rating ?? 5}
               onChange={(e) => onRate(game.id, Number(e.target.value))}
               className={styles.slider}
+              aria-label={`Оцінка для ${game.title}`}
+              aria-valuetext={rating != null ? `${rating} з 10` : 'не оцінено'}
             />
             <span className={styles.ratingValue}>
               {rating != null ? rating : '—'}
