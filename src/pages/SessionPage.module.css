@@ -71,6 +71,9 @@
   font-weight: 500;
   transition: border-color 0.2s, color 0.2s;
   white-space: nowrap;
+  display: flex;
+  align-items: center;
+  gap: 6px;
 }
 
 .modeToggleBtn:hover {

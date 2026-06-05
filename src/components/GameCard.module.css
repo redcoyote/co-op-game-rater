@@ -5,6 +5,7 @@
   overflow: hidden;
   display: flex;
   flex-direction: column;
+  flex: 1;
   transition: border-color 0.2s, transform 0.15s;
 }
 
@@ -15,7 +16,7 @@
 
 /* ── Cover / Video ──────────────────────────────────────────────────────────── */
 .cover {
-  aspect-ratio: 460 / 215;
+  aspect-ratio: 16 / 9;
   overflow: hidden;
   background: #000;
   position: relative;
@@ -25,6 +26,7 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: center center;
   display: block;
 }
 
@@ -36,6 +38,7 @@
   /* YouTube iframe has black bars — crop them */
   transform: scale(1.05);
 }
+
 
 /* ── Body ───────────────────────────────────────────────────────────────────── */
 .body {
@@ -89,9 +92,9 @@
   font-size: 0.68rem;
   padding: 2px 8px;
   border-radius: 20px;
-  background: rgba(124, 106, 247, 0.12);
-  border: 1px solid rgba(124, 106, 247, 0.3);
-  color: var(--color-accent);
+  background: rgba(56, 189, 248, 0.12);
+  border: 1px solid rgba(56, 189, 248, 0.3);
+  color: #38bdf8;
 }
 
 .tagGamePass {
@@ -101,6 +104,27 @@
   background: rgba(16, 124, 16, 0.15);
   border: 1px solid rgba(16, 124, 16, 0.35);
   color: #4caf82;
+}
+
+/* ── Labeled rows ───────────────────────────────────────────────────────────── */
+.row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.rowLabel {
+  font-size: 0.68rem;
+  color: var(--color-text-muted);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.rowValue {
+  font-size: 0.68rem;
+  color: #4caf82;
+  font-weight: 600;
 }
 
 /* ── Platform icons ─────────────────────────────────────────────────────────── */
@@ -129,35 +153,44 @@
 /* ── Description ────────────────────────────────────────────────────────────── */
 .description {
   font-size: 0.8rem;
-  color: var(--color-text-muted);
+  color: var(--color-text);
   line-height: 1.5;
-  flex: 1;
+}
+
+/* ── Footer (девайси / кросплей / магазин / ціна) ───────────────────────────── */
+.footer {
+  margin-top: auto;
+  padding-top: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 }
 
 /* ── Scores ─────────────────────────────────────────────────────────────────── */
 .scores {
   display: flex;
-  gap: 6px;
+  gap: 0;
   flex-wrap: wrap;
 }
 
 .score {
   font-size: 0.72rem;
   font-weight: 600;
-  padding: 2px 8px;
-  border-radius: 6px;
+}
+
+.score + .score::before {
+  content: '·';
+  margin: 0 6px;
+  color: var(--color-text-muted);
+  font-weight: 400;
 }
 
 .metacritic {
-  background: rgba(255, 204, 0, 0.12);
   color: #f0c040;
-  border: 1px solid rgba(255, 204, 0, 0.25);
 }
 
 .steam {
-  background: rgba(102, 192, 244, 0.1);
   color: #66c0f4;
-  border: 1px solid rgba(102, 192, 244, 0.25);
 }
 
 /* ── Store row ──────────────────────────────────────────────────────────────── */
@@ -177,18 +210,22 @@
 
 .storeLink {
   font-size: 0.72rem;
-  font-weight: 600;
-  padding: 3px 10px;
-  border-radius: 6px;
-  background: var(--color-surface-hover);
-  border: 1px solid var(--color-border);
-  color: var(--color-text-muted);
-  transition: border-color 0.15s, color 0.15s;
+  font-weight: 500;
+  color: var(--color-accent);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  transition: opacity 0.15s;
 }
 
 .storeLink:hover {
-  border-color: var(--color-accent);
-  color: var(--color-accent);
+  opacity: 0.75;
+}
+
+.priceBlock {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  gap: 8px;
 }
 
 .price {
@@ -198,21 +235,48 @@
   white-space: nowrap;
 }
 
-/* ── Rating slider ──────────────────────────────────────────────────────────── */
+.gamePassNote {
+  font-size: 0.68rem;
+  color: #4caf82;
+}
+
+.priceNote {
+  font-size: 0.6rem;
+  color: var(--color-text-muted);
+  opacity: 0.6;
+}
+
+/* ── Rating buttons ─────────────────────────────────────────────────────────── */
 .ratingRow {
   display: flex;
-  align-items: center;
-  gap: 12px;
+  gap: 4px;
   margin-top: 4px;
   padding-top: 10px;
   border-top: 1px solid var(--color-border);
 }
 
-.slider {
+.ratingBtn {
   flex: 1;
-  accent-color: var(--color-accent);
+  padding: 6px 0;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  background: var(--color-surface-hover);
+  border: 1px solid var(--color-border);
+  color: var(--color-text-muted);
   cursor: pointer;
-  height: 4px;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.ratingBtn:not(.ratingBtnActive):hover {
+  border-color: #f0c040;
+  color: #f0c040;
+}
+
+.ratingBtnActive {
+  background: #f0c040;
+  border-color: #f0c040;
+  color: #1a1a1a;
 }
 
 .ratingValue {

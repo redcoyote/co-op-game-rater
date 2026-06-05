@@ -2,7 +2,7 @@
   {
     "id": "game_001",
     "title": "Sid Meier's Civilization® VII",
-    "description": "4X-стратегія: будуй цивілізацію разом або змагайся за домінацію.",
+    "description": "4X-стратегія: будуй цивілізацію разом або змагайся за домінацію. (2–12 гравців)",
     "genre": [
       "Strategy"
     ],
@@ -28,7 +28,7 @@
   {
     "id": "game_002",
     "title": "Sid Meier's Civilization® VI",
-    "description": "4X-стратегія: разом ведіть народи через тисячоліття історії.",
+    "description": "4X-стратегія: разом ведіть народи через тисячоліття історії. (2–12 гравців)",
     "genre": [
       "Strategy"
     ],
@@ -47,6 +47,7 @@
     "price": "525₴",
     "gameplayUrl": "https://www.youtube.com/live/SWpaPfFWVfc",
     "gameplayYtId": "SWpaPfFWVfc",
+    "startAt": 7200,
     "releaseYear": 2016,
     "metacritic": 88,
     "steamScore": 84
@@ -54,7 +55,7 @@
   {
     "id": "game_003",
     "title": "Farming Simulator 25",
-    "description": "Симулятор ферми: ведіть господарство удвох, ділячи техніку й врожай.",
+    "description": "Симулятор ферми: ведіть господарство разом, ділячи техніку й врожай. (2–16 гравців)",
     "genre": [
       "Simulation"
     ],
@@ -80,7 +81,7 @@
   {
     "id": "game_004",
     "title": "Stardew Valley",
-    "description": "Затишний фермерський життєсим: разом обживайте долину й будуйте дім.",
+    "description": "Затишний фермерський життєсим: разом обживайте долину й будуйте дім. (1–4 гравці)",
     "genre": [
       "Simulation"
     ],
@@ -106,7 +107,7 @@
   {
     "id": "game_005",
     "title": "No Man's Sky",
-    "description": "Космічна пісочниця: досліджуйте безмежний всесвіт і будуйте бази удвох.",
+    "description": "Космічна пісочниця: досліджуйте безмежний всесвіт і будуйте бази разом. (1–32 гравців)",
     "genre": [
       "Exploration"
     ],
@@ -125,6 +126,7 @@
     "price": "1125₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=4ZTgZhOp3a0",
     "gameplayYtId": "4ZTgZhOp3a0",
+    "startAt": 6960,
     "releaseYear": 2016,
     "metacritic": 71,
     "steamScore": 80
@@ -132,7 +134,7 @@
   {
     "id": "game_006",
     "title": "Factorio",
-    "description": "Інженерна пісочниця: будуйте велетенські фабрики разом і автоматизуйте все.",
+    "description": "Інженерна пісочниця: будуйте велетенські фабрики разом і автоматизуйте все. (2+ гравців)",
     "genre": [
       "Automation"
     ],
@@ -157,7 +159,7 @@
   {
     "id": "game_007",
     "title": "ARK: Survival Ascended",
-    "description": "Виживання з динозаврами: приручайте, будуйте племʼя та воюйте з іншими.",
+    "description": "Виживання з динозаврами: приручайте, будуйте племʼя та воюйте з іншими. (2–70 гравців)",
     "genre": [
       "Survival"
     ],
@@ -175,6 +177,7 @@
     "price": "1645₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=qeiuokG0kdo",
     "gameplayYtId": "qeiuokG0kdo",
+    "startAt": 2520,
     "releaseYear": 2023,
     "metacritic": null,
     "steamScore": 57
@@ -182,7 +185,7 @@
   {
     "id": "game_008",
     "title": "Hearts of Iron IV",
-    "description": "Гранд-стратегія Другої світової: разом ведіть альянси проти ворожих фракцій.",
+    "description": "Гранд-стратегія Другої світової: разом ведіть альянси проти ворожих фракцій. (2–32 гравців)",
     "genre": [
       "Strategy"
     ],
@@ -207,7 +210,7 @@
   {
     "id": "game_009",
     "title": "7 Days to Die",
-    "description": "Зомбі-виживання: тримайте оборону вночі, розбудовуйте базу вдень.",
+    "description": "Зомбі-виживання: тримайте оборону вночі, розбудовуйте базу вдень. (1–8 гравців)",
     "genre": [
       "Survival"
     ],
@@ -226,6 +229,7 @@
     "price": "835₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=XyJVa_k6e0w",
     "gameplayYtId": "XyJVa_k6e0w",
+    "startAt": 1320,
     "releaseYear": 2016,
     "metacritic": 72,
     "steamScore": 83
@@ -233,7 +237,7 @@
   {
     "id": "game_010",
     "title": "Stellaris",
-    "description": "Космічна 4X: разом досліджуйте галактику або інтригуйте проти союзників.",
+    "description": "Космічна 4X: разом досліджуйте галактику або інтригуйте проти союзників. (2–32 гравців)",
     "genre": [
       "Strategy"
     ],
@@ -251,6 +255,7 @@
     "price": "1079₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=Pmha79EWPpo",
     "gameplayYtId": "Pmha79EWPpo",
+    "startAt": 6420,
     "releaseYear": 2016,
     "metacritic": 81,
     "steamScore": 82
@@ -258,7 +263,7 @@
   {
     "id": "game_011",
     "title": "Rust",
-    "description": "Хардкорне виживання: будуйте, торгуйте, воюйте на ворожому острові.",
+    "description": "Хардкорне виживання: будуйте, торгуйте, воюйте на ворожому острові. (2–200 гравців)",
     "genre": [
       "Survival"
     ],
@@ -283,7 +288,7 @@
   {
     "id": "game_012",
     "title": "YAPYAP",
-    "description": "Магічний кооп-хорор: до 6 друзів — міньйони, які громлять башту мага.",
+    "description": "Магічний кооп-хорор: до 6 гравців — міньйони, які громлять башту мага. (1–6 гравців)",
     "genre": [
       "Horror"
     ],
@@ -292,7 +297,7 @@
       "Mac"
     ],
     "wayToPlay": "PC + Mac",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3834090/header.jpg",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3834090/399b7aa5bd9ea359e6d77cec3032758ea27c597b/header.jpg?t=1775943797",
     "steamUrl": "https://store.steampowered.com/app/3834090/YAPYAP/",
     "xboxConsoleUrl": null,
     "xboxPcUrl": null,
@@ -308,7 +313,7 @@
   {
     "id": "game_013",
     "title": "Project Zomboid",
-    "description": "Зомбі-виживання в ізометрії: разом виживайте, поки місто гниє.",
+    "description": "Зомбі-виживання в ізометрії: разом виживайте, поки місто гниє. (1–32 гравців)",
     "genre": [
       "Survival"
     ],
@@ -333,7 +338,7 @@
   {
     "id": "game_014",
     "title": "Bloons TD 6",
-    "description": "Tower defense проти куль і мавп: разом тримайте оборону на хвилях.",
+    "description": "Tower defense проти куль і мавп: разом тримайте оборону на хвилях. (1–4 гравці)",
     "genre": [
       "Tower Defense"
     ],
@@ -349,8 +354,8 @@
     "otherUrl": null,
     "gamePass": null,
     "price": "219₴",
-    "gameplayUrl": "https://www.youtube.com/watch?v=95Mcjel74qU",
-    "gameplayYtId": "95Mcjel74qU",
+    "gameplayUrl": "https://youtu.be/abVKXhpZd_Q",
+    "gameplayYtId": "abVKXhpZd_Q",
     "releaseYear": 2018,
     "metacritic": 88,
     "steamScore": 96
@@ -358,7 +363,7 @@
   {
     "id": "game_015",
     "title": "Fishing Planet",
-    "description": "Симулятор риболовлі: спокійно ловіть рибу й змагайтеся за трофеї.",
+    "description": "Симулятор риболовлі: спокійно ловіть рибу й змагайтеся за трофеї. (2–10 гравців)",
     "genre": [
       "Simulation"
     ],
@@ -384,7 +389,7 @@
   {
     "id": "game_016",
     "title": "Old World",
-    "description": "Покрокова 4X: будуйте династії та змагайтеся в історичних сценаріях.",
+    "description": "Покрокова 4X: будуйте династії та змагайтеся в історичних сценаріях. (2–8 гравців)",
     "genre": [
       "Strategy"
     ],
@@ -409,7 +414,7 @@
   {
     "id": "game_017",
     "title": "Valheim",
-    "description": "Вікінгське виживання: будуйте, плавайте й полюйте на босів удвох.",
+    "description": "Вікінгське виживання: будуйте, плавайте й полюйте на босів разом. (1–10 гравців)",
     "genre": [
       "Survival"
     ],
@@ -435,7 +440,7 @@
   {
     "id": "game_018",
     "title": "Barony",
-    "description": "Рогалик-данжен-кролер: проходьте підземелля разом у класичному стилі.",
+    "description": "Рогалик-данжен-кролер: проходьте підземелля разом у класичному стилі. (1–4 гравці)",
     "genre": [
       "Roguelike"
     ],
@@ -460,7 +465,7 @@
   {
     "id": "game_019",
     "title": "Don't Starve Together",
-    "description": "Виживання в дивному світі: спільно полюйте, готуйте й тримайтеся разом.",
+    "description": "Виживання в дивному світі: спільно полюйте, готуйте й тримайтеся разом. (1–6 гравців)",
     "genre": [
       "Survival"
     ],
@@ -478,6 +483,7 @@
     "price": "229₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=NCte1UeULRU",
     "gameplayYtId": "NCte1UeULRU",
+    "startAt": 480,
     "releaseYear": 2016,
     "metacritic": 82,
     "steamScore": 95
@@ -485,7 +491,7 @@
   {
     "id": "game_020",
     "title": "Total War: WARHAMMER II",
-    "description": "Тактика з мініатюрами: ведіть фентезі-армії в епічних битвах.",
+    "description": "Тактика з мініатюрами: ведіть фентезі-армії в епічних битвах. (2–4 гравці)",
     "genre": [
       "Strategy"
     ],
@@ -510,7 +516,7 @@
   {
     "id": "game_021",
     "title": "Total War: WARHAMMER",
-    "description": "Тактика з мініатюрами: ведіть фентезі-армії в епічних битвах.",
+    "description": "Тактика з мініатюрами: ведіть фентезі-армії в епічних битвах. (2–4 гравці)",
     "genre": [
       "Strategy"
     ],
@@ -535,7 +541,7 @@
   {
     "id": "game_022",
     "title": "Escape Simulator 2",
-    "description": "Кооперативні квест-кімнати: розгадуйте головоломки разом на час.",
+    "description": "Кооперативні квест-кімнати: розгадуйте головоломки разом на час. (2–8 гравців)",
     "genre": [
       "Puzzle"
     ],
@@ -560,7 +566,7 @@
   {
     "id": "game_023",
     "title": "Unturned",
-    "description": "Виживання-пісочниця: будуйте, торгуйте й воюйте на величезних мапах.",
+    "description": "Виживання-пісочниця: будуйте, торгуйте й воюйте на величезних мапах. (2–24 гравців)",
     "genre": [
       "Survival"
     ],
@@ -576,8 +582,9 @@
     "otherUrl": null,
     "gamePass": null,
     "price": "0₴",
-    "gameplayUrl": "https://www.youtube.com/watch?v=01cmrc8TelA",
-    "gameplayYtId": "01cmrc8TelA",
+    "gameplayUrl": "https://youtu.be/qdAlbhc5Ji4",
+    "gameplayYtId": "qdAlbhc5Ji4",
+    "startAt": 480,
     "releaseYear": 2017,
     "metacritic": null,
     "steamScore": 93
@@ -585,7 +592,7 @@
   {
     "id": "game_024",
     "title": "Songs of Conquest",
-    "description": "Покрокова стратегія в стилі казки: ведіть фракції до перемоги.",
+    "description": "Покрокова стратегія в стилі казки: ведіть фракції до перемоги. (2–4 гравці)",
     "genre": [
       "Strategy"
     ],
@@ -610,7 +617,7 @@
   {
     "id": "game_025",
     "title": "The Elder Scrolls® Online",
-    "description": "MMORPG у світі Скайриму: проходьте сюжет і данжі разом.",
+    "description": "MMORPG у світі Скайриму: проходьте сюжет і данжі разом. (2–12 гравців)",
     "genre": [
       "MMORPG"
     ],
@@ -635,7 +642,7 @@
   {
     "id": "game_026",
     "title": "ARC Raiders",
-    "description": "PvPvE-екстракшн-шутер: грабуйте, ховайтеся від машин, виживайте разом.",
+    "description": "PvPvE-екстракшн-шутер: грабуйте, ховайтеся від машин, виживайте разом. (1–3 гравці)",
     "genre": [
       "Shooter"
     ],
@@ -660,7 +667,7 @@
   {
     "id": "game_027",
     "title": "State of Decay 2: Juggernaut Edition",
-    "description": "Зомбі-виживання з машинами: разом захищайте громаду від орд.",
+    "description": "Зомбі-виживання з машинами: разом захищайте громаду від орд. (1–4 гравці)",
     "genre": [
       "Survival"
     ],
@@ -678,6 +685,7 @@
     "price": "379₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=nbR4Q1YkZ1U",
     "gameplayYtId": "nbR4Q1YkZ1U",
+    "startAt": 1680,
     "releaseYear": 2020,
     "metacritic": 78,
     "steamScore": 81
@@ -685,7 +693,7 @@
   {
     "id": "game_028",
     "title": "Chivalry 2",
-    "description": "Середньовічний слешер: 64 гравці в епічних битвах на мечах.",
+    "description": "Середньовічний слешер: 64 гравці в епічних битвах на мечах. (2–64 гравців)",
     "genre": [
       "Melee Combat"
     ],
@@ -710,7 +718,7 @@
   {
     "id": "game_029",
     "title": "Monster Hunter Rise + Sunbreak",
-    "description": "Полювання на монстрів: вистежуйте велетенських звірів разом.",
+    "description": "Полювання на монстрів: вистежуйте велетенських звірів разом. (1–4 гравці)",
     "genre": [
       "Action RPG"
     ],
@@ -719,7 +727,7 @@
       "Xbox"
     ],
     "wayToPlay": "PC + Xbox",
-    "coverUrl": "",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg",
     "steamUrl": null,
     "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/monster-hunter-rise-sunbreak/9PJN16LJZ41M/0010",
     "xboxPcUrl": "https://www.xbox.com/uk-UA/games/store/monster-hunter-rise-sunbreak/9PJN16LJZ41M/0010",
@@ -728,6 +736,7 @@
     "price": "399₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=Fl037mM71Vo",
     "gameplayYtId": "Fl037mM71Vo",
+    "startAt": 180,
     "releaseYear": 2021,
     "metacritic": 71,
     "steamScore": 91
@@ -735,7 +744,7 @@
   {
     "id": "game_030",
     "title": "Wartales",
-    "description": "Тактична RPG: ведіть найманців середньовічною Європою разом.",
+    "description": "Тактична RPG: ведіть найманців середньовічною Європою разом. (1–4 гравці)",
     "genre": [
       "Tactical RPG"
     ],
@@ -753,6 +762,7 @@
     "price": "628₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=A8BRnaVzfUo",
     "gameplayYtId": "A8BRnaVzfUo",
+    "startAt": 2040,
     "releaseYear": 2023,
     "metacritic": 78,
     "steamScore": 82
@@ -760,7 +770,7 @@
   {
     "id": "game_031",
     "title": "THE FINALS",
-    "description": "Швидкий 3v3v3 шутер: руйнівні арени та видовищні бої.",
+    "description": "Швидкий 3v3v3 шутер: руйнівні арени та видовищні бої. (3 гравці на загін)",
     "genre": [
       "Shooter"
     ],
@@ -778,6 +788,7 @@
     "price": "0₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=CcAj4SllI5M",
     "gameplayYtId": "CcAj4SllI5M",
+    "startAt": 180,
     "releaseYear": 2023,
     "metacritic": 80,
     "steamScore": 83
@@ -785,7 +796,7 @@
   {
     "id": "game_032",
     "title": "Asphalt Legends",
-    "description": "Аркадні гонки: змагайтеся з друзями на трасах усього світу.",
+    "description": "Аркадні гонки: змагайтеся разом на трасах усього світу. (2–8 гравців)",
     "genre": [
       "Racing"
     ],
@@ -803,6 +814,7 @@
     "price": "0₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=zX5Co1hq7dc",
     "gameplayYtId": "zX5Co1hq7dc",
+    "startAt": 660,
     "releaseYear": 2024,
     "metacritic": 64,
     "steamScore": null
@@ -810,7 +822,7 @@
   {
     "id": "game_033",
     "title": "Content Warning",
-    "description": "Хорор-кооп з камерою: знімайте моторошне відео й виживайте разом.",
+    "description": "Хорор-кооп з камерою: знімайте моторошне відео й виживайте разом. (1–4 гравці)",
     "genre": [
       "Horror"
     ],
@@ -828,6 +840,7 @@
     "price": "154₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=m1jZ3SqY0I0",
     "gameplayYtId": "m1jZ3SqY0I0",
+    "startAt": 60,
     "releaseYear": 2024,
     "metacritic": null,
     "steamScore": 95
@@ -835,7 +848,7 @@
   {
     "id": "game_034",
     "title": "Tony Hawk's™ Pro Skater™ 3 + 4",
-    "description": "Аркадний скейтборд: робіть трюки й комбо разом на культових локаціях.",
+    "description": "Аркадний скейтборд: робіть трюки й комбо разом на культових локаціях. (2–8 гравців)",
     "genre": [
       "Sports"
     ],
@@ -853,6 +866,7 @@
     "price": "2096₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=D7pzivoZV94",
     "gameplayYtId": "D7pzivoZV94",
+    "startAt": 120,
     "releaseYear": 2025,
     "metacritic": 84,
     "steamScore": 89
@@ -860,7 +874,7 @@
   {
     "id": "game_035",
     "title": "Back 4 Blood",
-    "description": "Кооп-шутер про зомбі: четверо проти орд інфікованих.",
+    "description": "Кооп-шутер про зомбі: четверо проти орд інфікованих. (1–4 гравці)",
     "genre": [
       "Shooter"
     ],
@@ -885,7 +899,7 @@
   {
     "id": "game_036",
     "title": "REANIMAL",
-    "description": "Кооп-хорор від творців Little Nightmares: брат і сестра рятують друзів на острові жахів.",
+    "description": "Кооп-хорор від творців Little Nightmares: рятуйте друзів разом на острові жахів. (1–2 гравці)",
     "genre": [
       "Horror"
     ],
@@ -910,7 +924,7 @@
   {
     "id": "game_037",
     "title": "Wo Long: Fallen Dynasty",
-    "description": "Souls-екшен у Китаї: разом долайте демонів і босів.",
+    "description": "Souls-екшен у Китаї: разом долайте демонів і босів. (1–3 гравці)",
     "genre": [
       "Action RPG"
     ],
@@ -919,7 +933,7 @@
       "Xbox"
     ],
     "wayToPlay": "PC + Xbox",
-    "coverUrl": "",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1448440/header.jpg?t=1775538052",
     "steamUrl": null,
     "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/wo-long-fallen-dynasty/9N9X9PC8V9CP/0010",
     "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/wo-long-fallen-dynasty/9n9x9pc8v9cp",
@@ -935,7 +949,7 @@
   {
     "id": "game_038",
     "title": "Battlefield™ 6",
-    "description": "Військовий шутер: масштабні бої з технікою й руйнуванням.",
+    "description": "Військовий шутер: масштабні бої з технікою й руйнуванням. (2–64 гравців)",
     "genre": [
       "Shooter"
     ],
@@ -944,7 +958,7 @@
       "Xbox"
     ],
     "wayToPlay": "PC + Xbox",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/header.jpg",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2807960/c12d12ce3c7d217398d3fcad77427bfc9d57c570/header.jpg?t=1777475030",
     "steamUrl": "https://store.steampowered.com/app/2807960/Battlefield_6/",
     "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/battlefield-6/9p2ff14jzll3",
     "xboxPcUrl": null,
@@ -960,7 +974,7 @@
   {
     "id": "game_039",
     "title": "Battlefield™ 2042",
-    "description": "Військовий шутер: 128-гравцеві бої у відкритих сценаріях.",
+    "description": "Військовий шутер: 128-гравцеві бої у відкритих сценаріях. (2–128 гравців)",
     "genre": [
       "Shooter"
     ],
@@ -985,7 +999,7 @@
   {
     "id": "game_040",
     "title": "WILD HEARTS™",
-    "description": "Полювання на монстрів у фентезі-Японії: разом валите велетенських звірів.",
+    "description": "Полювання на монстрів у фентезі-Японії: разом валите велетенських звірів. (1–3 гравці)",
     "genre": [
       "Action RPG"
     ],
@@ -1010,7 +1024,7 @@
   {
     "id": "game_041",
     "title": "F1® 25",
-    "description": "Сімулятор Формули-1: змагайтеся в гонках і керуйте командою.",
+    "description": "Сімулятор Формули-1: змагайтеся в гонках і керуйте командою. (2–20 гравців)",
     "genre": [
       "Racing"
     ],
@@ -1019,7 +1033,7 @@
       "Xbox"
     ],
     "wayToPlay": "PC + Xbox",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3059520/header.jpg",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3059520/37f833ca5bd3d5c3eec2b411131f3e00f580bbe7/header.jpg?t=1777395603",
     "steamUrl": "https://store.steampowered.com/app/3059520/F1_25/",
     "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/f1-25/9nwpw7f19fs5",
     "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/f1-25/9p1q06wqv414",
@@ -1035,7 +1049,7 @@
   {
     "id": "game_042",
     "title": "EA SPORTS™ WRC",
-    "description": "Раллі-симулятор: проходьте етапи разом або гонитеся за часом.",
+    "description": "Раллі-симулятор: проходьте етапи разом або гонитеся за часом. (2–8 гравців)",
     "genre": [
       "Racing"
     ],
@@ -1060,7 +1074,7 @@
   {
     "id": "game_043",
     "title": "Need for Speed™ Unbound",
-    "description": "Стріт-рейсинг з вайбом: тікайте від копів і змагайтеся за стиль.",
+    "description": "Стріт-рейсинг з вайбом: тікайте від копів і змагайтеся за стиль. (2–16 гравців)",
     "genre": [
       "Racing"
     ],
@@ -1078,6 +1092,7 @@
     "price": "1699₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=-yToaJ0wzPU",
     "gameplayYtId": "-yToaJ0wzPU",
+    "startAt": 180,
     "releaseYear": 2022,
     "metacritic": 82,
     "steamScore": null
@@ -1085,7 +1100,7 @@
   {
     "id": "game_044",
     "title": "Diablo® IV",
-    "description": "Action-RPG: разом зачищайте підземелля й полюйте на лут.",
+    "description": "Action-RPG: разом зачищайте підземелля й полюйте на лут. (1–4 гравці)",
     "genre": [
       "Action RPG"
     ],
@@ -1103,6 +1118,7 @@
     "price": "1696₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=yX5CvXQYQ3A",
     "gameplayYtId": "yX5CvXQYQ3A",
+    "startAt": 2280,
     "releaseYear": 2023,
     "metacritic": 88,
     "steamScore": 87
@@ -1110,7 +1126,7 @@
   {
     "id": "game_045",
     "title": "Overwatch®",
-    "description": "Командний герой-шутер 5v5: координація і ролі вирішують усе.",
+    "description": "Командний герой-шутер 5v5: координація і ролі вирішують усе. (5 гравців на команду)",
     "genre": [
       "Shooter"
     ],
@@ -1135,7 +1151,7 @@
   {
     "id": "game_046",
     "title": "Hearthstone",
-    "description": "Карткова стратегія: дуелюйтеся з друзями в швидких партіях.",
+    "description": "Карткова стратегія: дуелюйтеся в швидких партіях. (2 гравці)",
     "genre": [
       "Card Game"
     ],
@@ -1144,7 +1160,7 @@
       "Mac"
     ],
     "wayToPlay": "PC + Mac",
-    "coverUrl": "",
+    "coverUrl": "https://d39zum0jwvcigt.cloudfront.net/_next/static/images/default-4fff3c606c794dc03a915b9071f562d3.jpg",
     "steamUrl": null,
     "xboxConsoleUrl": null,
     "xboxPcUrl": null,
@@ -1160,7 +1176,7 @@
   {
     "id": "game_047",
     "title": "Sea of Thieves",
-    "description": "Піратська пригода: ходіть під вітрилом і шукайте скарби командою.",
+    "description": "Піратська пригода: ходіть під вітрилом і шукайте скарби командою. (1–4 гравці)",
     "genre": [
       "Adventure"
     ],
@@ -1178,6 +1194,7 @@
     "price": "1030₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=F5nu50v-iE8",
     "gameplayYtId": "F5nu50v-iE8",
+    "startAt": 480,
     "releaseYear": 2018,
     "metacritic": 85,
     "steamScore": 91
@@ -1185,7 +1202,7 @@
   {
     "id": "game_048",
     "title": "Call of Duty®: Black Ops 7",
-    "description": "Військовий шутер: класичний CoD у командних режимах.",
+    "description": "Військовий шутер: класичний CoD у командних режимах. (2–12 гравців)",
     "genre": [
       "Shooter"
     ],
@@ -1194,7 +1211,7 @@
       "Xbox"
     ],
     "wayToPlay": "PC + Xbox",
-    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3606480/header.jpg",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3606480/d7041a15f572f7702d5f4bc97e498cd3e1cc62e2/header.jpg?t=1776875198",
     "steamUrl": "https://store.steampowered.com/app/3606480/Call_of_Duty_Black_Ops_7/",
     "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/call-of-duty-black-ops-7-cross-gen-bundle/9N8KMNW6942X/0010",
     "xboxPcUrl": "https://www.xbox.com/uk-UA/games/store/call-of-duty-black-ops-7-cross-gen-bundle/9N8KMNW6942X/0010",
@@ -1210,7 +1227,7 @@
   {
     "id": "game_049",
     "title": "Anno 117: Pax Romana",
-    "description": "Стратегія розбудови міст: розвивайте Римську імперію разом.",
+    "description": "Стратегія розбудови міст: розвивайте Римську імперію разом. (1–4 гравці)",
     "genre": [
       "Strategy"
     ],
@@ -1235,7 +1252,7 @@
   {
     "id": "game_050",
     "title": "For Honor",
-    "description": "Середньовічний бій 4v4: командна тактика і фракційна війна.",
+    "description": "Середньовічний бій 4v4: командна тактика і фракційна війна. (2–8 гравців)",
     "genre": [
       "Melee Combat"
     ],
@@ -1260,7 +1277,7 @@
   {
     "id": "game_051",
     "title": "Riders Republic",
-    "description": "Екстремальний спорт у відкритому світі: змагайтеся й катайтеся разом.",
+    "description": "Екстремальний спорт у відкритому світі: змагайтеся й катайтеся разом. (2–64 гравців)",
     "genre": [
       "Sports"
     ],
@@ -1285,7 +1302,7 @@
   {
     "id": "game_052",
     "title": "Roller Champions™",
-    "description": "Командна спортивна аркада: 3v3 на роликах за м'яч.",
+    "description": "Командна спортивна аркада: 3v3 на роликах за м'яч. (6 гравців, 3v3)",
     "genre": [
       "Sports"
     ],
@@ -1310,7 +1327,7 @@
   {
     "id": "game_053",
     "title": "The Settlers: New Allies",
-    "description": "Стратегія розбудови поселень: будуйте економіку разом.",
+    "description": "Стратегія розбудови поселень: будуйте економіку разом. (2–6 гравців)",
     "genre": [
       "Strategy"
     ],
@@ -1335,7 +1352,7 @@
   {
     "id": "game_054",
     "title": "Brawlhalla",
-    "description": "Платформер-файтинг: швидкі бої до 8 гравців на одній арені.",
+    "description": "Платформер-файтинг: швидкі бої до 8 гравців на одній арені. (2–8 гравців)",
     "genre": [
       "Fighting"
     ],
@@ -1361,7 +1378,7 @@
   {
     "id": "game_055",
     "title": "Skull and Bones",
-    "description": "Піратський екшен: керуйте кораблями і грабуйте разом.",
+    "description": "Піратський екшен: керуйте кораблями і грабуйте разом. (1–3 гравці)",
     "genre": [
       "Action"
     ],
@@ -1386,7 +1403,7 @@
   {
     "id": "game_056",
     "title": "Tom Clancy's Rainbow Six Extraction",
-    "description": "Кооп-шутер про карантин: четверо оперативників проти прибульців.",
+    "description": "Кооп-шутер про карантин: троє оперативників проти прибульців. (1–3 гравці)",
     "genre": [
       "Shooter"
     ],
@@ -1404,6 +1421,7 @@
     "price": "610₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=ajnmAvt0_is",
     "gameplayYtId": "ajnmAvt0_is",
+    "startAt": 120,
     "releaseYear": 2022,
     "metacritic": 73,
     "steamScore": null
@@ -1411,7 +1429,7 @@
   {
     "id": "game_057",
     "title": "Minecraft",
-    "description": "Пісочниця-крафтилка: будуйте, досліджуйте, виживайте разом.",
+    "description": "Пісочниця-крафтилка: будуйте, досліджуйте, виживайте разом. (2–10 гравців)",
     "genre": [
       "Sandbox"
     ],
@@ -1420,7 +1438,7 @@
       "Xbox"
     ],
     "wayToPlay": "PC + Xbox",
-    "coverUrl": "",
+    "coverUrl": "https://xboxwire.thesourcemediaassets.com/sites/2/2024/05/Hero-8c18da7c19a1a8811ddb.jpg",
     "steamUrl": null,
     "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/minecraft/9MVXMVT8ZKWC",
     "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/minecraft/9mvxmvt8zkwc",
@@ -1429,6 +1447,7 @@
     "price": "1300₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=vYDHWrhJnoE",
     "gameplayYtId": "vYDHWrhJnoE",
+    "startAt": 2400,
     "releaseYear": 2011,
     "metacritic": 93,
     "steamScore": 94
@@ -1436,7 +1455,7 @@
   {
     "id": "game_058",
     "title": "Minecraft Dungeons",
-    "description": "Кооп-данжен-кролер: 1-4 героїв проти підземель Майнкрафта.",
+    "description": "Кооп-данжен-кролер: 1–4 героїв проти підземель Майнкрафта. (1–4 гравці)",
     "genre": [
       "Dungeon Crawler"
     ],
@@ -1454,6 +1473,7 @@
     "price": "505₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=JnsniKxwxiM",
     "gameplayYtId": "JnsniKxwxiM",
+    "startAt": 180,
     "releaseYear": 2020,
     "metacritic": 76,
     "steamScore": 87
@@ -1461,7 +1481,7 @@
   {
     "id": "game_059",
     "title": "Minecraft Legends",
-    "description": "RTS у світі Майнкрафта: ведіть війська проти ворожих фракцій.",
+    "description": "RTS у світі Майнкрафта: ведіть війська проти ворожих фракцій. (2–8 гравців)",
     "genre": [
       "Strategy"
     ],
@@ -1478,6 +1498,7 @@
     "gamePass": "Xbox+PC",
     "price": "740₴",
     "gameplayUrl": "https://www.youtube.com/watch?v=MLz1Q0tkNR0",
+    "startAt": 660,
     "gameplayYtId": "MLz1Q0tkNR0",
     "releaseYear": 2023,
     "metacritic": 72,
@@ -1486,7 +1507,7 @@
   {
     "id": "game_060",
     "title": "Rocket League ®",
-    "description": "Аркадний футбол на машинах: швидкі матчи 3v3 з фізикою.",
+    "description": "Аркадний футбол на машинах: швидкі матчи 3v3 з фізикою. (2–6 гравців)",
     "genre": [
       "Sports"
     ],
@@ -1495,7 +1516,7 @@
       "Xbox"
     ],
     "wayToPlay": "PC + Xbox",
-    "coverUrl": "",
+    "coverUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rocket_League_coverart.jpg",
     "steamUrl": null,
     "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/Rocket-League/C125W9BG2K0V",
     "xboxPcUrl": null,
@@ -1511,7 +1532,7 @@
   {
     "id": "game_061",
     "title": "Fall Guys",
-    "description": "Хаотичний батл-роял: 60 гравців на смугах перешкод.",
+    "description": "Хаотичний батл-роял: 60 гравців на смугах перешкод. (2–60 гравців)",
     "genre": [
       "Battle Royale"
     ],
@@ -1520,7 +1541,7 @@
       "Xbox"
     ],
     "wayToPlay": "PC + Xbox",
-    "coverUrl": "",
+    "coverUrl": "https://cdn1.epicgames.com/offer/50118b7f954e450f8823df1614b24e80/FGSS04_KeyArt_OfferImagePortrait_1200x1600_1200x1600-4bd46574e78464352e1f2c55714701f7",
     "steamUrl": null,
     "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/fall-guys/9pmxh5249dg5",
     "xboxPcUrl": null,
@@ -1536,7 +1557,7 @@
   {
     "id": "game_062",
     "title": "Fortnite",
-    "description": "Батл-роял і пісочниця: будуйте, бийтеся, виживайте разом.",
+    "description": "Батл-роял і пісочниця: будуйте, бийтеся, виживайте разом. (1–4 гравці на загін)",
     "genre": [
       "Battle Royale"
     ],
@@ -1545,7 +1566,7 @@
       "Xbox"
     ],
     "wayToPlay": "PC + Xbox",
-    "coverUrl": "",
+    "coverUrl": "https://cdn1.epicgames.com/offer/fn/FNBR_40-00_C7S2_Jules_EGS_Launcher_Blade_2560x1440_2560x1440-adf2254c5cbb4f32a73acac58c112293",
     "steamUrl": null,
     "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/fortnite/bt5p2x999vh2",
     "xboxPcUrl": null,
@@ -1557,5 +1578,333 @@
     "releaseYear": 2017,
     "metacritic": 81,
     "steamScore": null
+  },
+  {
+    "id": "game_063",
+    "title": "The Escapists 2",
+    "description": "Кооп-пригода у в'язниці: плануйте втечу разом, уникаючи охоронців. (2–4 гравці)",
+    "genre": [
+      "Simulation"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox",
+      "Mac"
+    ],
+    "wayToPlay": "PC + Mac",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/641990/header.jpg?t=1764006025",
+    "steamUrl": "https://store.steampowered.com/app/641990/The_Escapists_2/",
+    "xboxConsoleUrl": "",
+    "xboxPcUrl": "",
+    "otherUrl": "",
+    "gamePass": "",
+    "price": "450₴",
+    "gameplayUrl": "https://youtu.be/93mk6yyIqtk?si=utIDFRaCTSnz5d0l",
+    "gameplayYtId": "93mk6yyIqtk",
+    "releaseYear": 2017,
+    "metacritic": 75,
+    "steamScore": 91
+  },
+  {
+    "id": "game_064",
+    "title": "Unrailed!",
+    "description": "Кооп-хаос на залізниці: разом будуйте колію і доводьте потяг до фінішу. (2–4 гравці)",
+    "genre": [
+      "Action"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox",
+      "Mac"
+    ],
+    "wayToPlay": "Full cross-platform",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1016920/header.jpg?t=1773842519",
+    "steamUrl": "https://store.steampowered.com/app/1016920/Unrailed/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/unrailed/9nrlqnvkcgwc",
+    "xboxPcUrl": "",
+    "otherUrl": "",
+    "gamePass": "",
+    "price": "379₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=0o5dJkNdsQg",
+    "gameplayYtId": "0o5dJkNdsQg",
+    "releaseYear": 2019,
+    "metacritic": 77,
+    "steamScore": 94
+  },
+  {
+    "id": "game_065",
+    "title": "Baldur's Gate 3",
+    "description": "Рольова RPG: разом досліджуйте Фаерун, приймайте рішення і рятуйте світ. (1–4 гравці)",
+    "genre": [
+      "Role-playing"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox",
+      "Mac"
+    ],
+    "wayToPlay": "Full cross-platform",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+    "steamUrl": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/baldurs-gate-3/9ND58LQTG09T/0010",
+    "xboxPcUrl": "",
+    "otherUrl": "",
+    "gamePass": "",
+    "price": "899₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=UXYTZcUjIWs",
+    "gameplayYtId": "UXYTZcUjIWs",
+    "releaseYear": 2023,
+    "metacritic": 96,
+    "steamScore": 96
+  },
+  {
+    "id": "game_066",
+    "title": "Deep Rock Galactic",
+    "description": "Кооп-шутер: разом зачищайте підземелля від жуків і видобувайте мінерали. (1–4 гравці)",
+    "genre": [
+      "Shooter"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2321470/header.jpg?t=1777569366",
+    "steamUrl": "",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/deep-rock-galactic/9NHFVWX1V7QJ/0010",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/deep-rock-galactic/9nhfvwx1v7qj",
+    "otherUrl": "",
+    "gamePass": "Xbox+PC",
+    "price": "760₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=gOGZ_9O6aR0",
+    "gameplayYtId": "gOGZ_9O6aR0",
+    "releaseYear": 2018,
+    "metacritic": 85,
+    "steamScore": 87
+  },
+  {
+    "id": "game_067",
+    "title": "Marvel Rivals",
+    "description": "Командний шутер: герої Marvel б'ються у матчах 6 на 6 у реальному часі. (6 гравців)",
+    "genre": [
+      "Shooter"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2767030/dabf1f6f9513340c90c154b3cf02c9661aeaeecb/header_alt_assets_7.jpg?t=1778835753",
+    "steamUrl": "https://store.steampowered.com/app/2767030/Marvel_Rivals/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/marvel-rivals/9N8PMW7QMD3D/0010",
+    "xboxPcUrl": "https://www.xbox.com/uk-UA/games/store/marvel-rivals/9N8PMW7QMD3D/0010",
+    "otherUrl": "",
+    "gamePass": "",
+    "price": "0₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=oUirWUd8RvQ",
+    "gameplayYtId": "oUirWUd8RvQ",
+    "releaseYear": 2024,
+    "metacritic": 74,
+    "steamScore": 77
+  },
+  {
+    "id": "game_068",
+    "title": "Destiny 2",
+    "description": "Шутер-MMO: разом виконуйте рейди, страйки та вторгнення у живому всесвіті. (2–6 гравців)",
+    "genre": [
+      "Shooter"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1085660/header.jpg?t=1765904462",
+    "steamUrl": "https://store.steampowered.com/app/1085660/Destiny_2/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/destiny-2/BPQ955FQFPH6/0001",
+    "xboxPcUrl": "https://www.xbox.com/en-US/games/store/destiny-2/9P9WJ5FW0GTD/0010",
+    "otherUrl": "",
+    "gamePass": "",
+    "price": "0₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=FD8TlKiQ2YM",
+    "gameplayYtId": "FD8TlKiQ2YM",
+    "releaseYear": 2017,
+    "metacritic": 85,
+    "steamScore": 77
+  },
+  {
+    "id": "game_069",
+    "title": "Warframe",
+    "description": "Кооп-екшн: разом виконуйте місії як ніндзя з унікальними варфреймами. (1–4 гравці)",
+    "genre": [
+      "Action RPG"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/230410/60ce7425b864dd3c0dd855bfc66004c6f9ca4844/header.jpg?t=1778595605",
+    "steamUrl": "https://store.steampowered.com/app/230410/Warframe/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/warframe/BPS3XF74B9V1/0001",
+    "xboxPcUrl": "",
+    "otherUrl": "",
+    "gamePass": "",
+    "price": "0₴",
+    "gameplayUrl": "https://youtu.be/ggUgizsO0yA?si=VaLv5GsCMgXGr1IF",
+    "gameplayYtId": "ggUgizsO0yA",
+    "releaseYear": 2013,
+    "metacritic": 64,
+    "steamScore": 91
+  },
+  {
+    "id": "game_070",
+    "title": "Warhammer 40,000: Space Marine 2",
+    "description": "Кооп-шутер: разом відбивайте хвилі хаосу в епічних боях за Імперіум. (1–6 гравців)",
+    "genre": [
+      "Shooter"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1778000020",
+    "steamUrl": "https://store.steampowered.com/app/2183900/Warhammer_40000_Space_Marine_2/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/warhammer-40000-space-marine-2/9N9PCZWHVP2L/0010",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/warhammer-40-000-space-marine-2/9n9pczwhvp2l",
+    "otherUrl": "",
+    "gamePass": "Xbox+PC",
+    "price": "1299₴",
+    "gameplayUrl": "https://www.youtube.com/watch?v=AGXtVUk3AeU",
+    "gameplayYtId": "AGXtVUk3AeU",
+    "releaseYear": 2024,
+    "metacritic": 82,
+    "steamScore": 86
+  },
+  {
+    "id": "game_071",
+    "title": "Borderlands 4",
+    "description": "Кооп-шутер із лутом: разом штурмуйте планети та збирайте зброю безглуздої сили. (2–4 гравці)",
+    "genre": [
+      "Shooter"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1285190/986a88d1b0e1420b00183def2a7034508353afa3/header.jpg?t=1778543046",
+    "steamUrl": "https://store.steampowered.com/app/1285190/Borderlands_4/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-us/games/store/borderlands-4/9mx6hkf5647g",
+    "xboxPcUrl": "",
+    "otherUrl": "",
+    "gamePass": "",
+    "price": "2999₴",
+    "gameplayUrl": "https://www.youtube.com/live/o-478B2T-I8?si=48QNPr7Nojm2H6FN",
+    "gameplayYtId": "o-478B2T-I8",
+    "releaseYear": 2025,
+    "metacritic": 81,
+    "steamScore": 61
+  },
+  {
+    "id": "game_072",
+    "title": "Grounded 2",
+    "description": "Кооп-виживання: рятуйтеся в мініатюрному дворі разом, будуючи базу та воюючи з комахами. (2–4 гравці)",
+    "genre": [
+      "Survival"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2661300/c4fc47c7e6ece14e438f0957d066dc9ab2a3412a/header.jpg?t=1776193476",
+    "steamUrl": "https://store.steampowered.com/app/2661300/Grounded_2/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/grounded-2/9P77PG7DK0W2/0010",
+    "xboxPcUrl": "https://www.xbox.com/uk-ua/games/store/grounded-2/9p77pg7dk0w2",
+    "otherUrl": "",
+    "gamePass": "Xbox+PC",
+    "price": "999₴",
+    "gameplayUrl": "https://youtu.be/8XdMvO0m_LE?si=ZBCpyLkYDyNzlGcA",
+    "gameplayYtId": "8XdMvO0m_LE",
+    "releaseYear": 2025,
+    "metacritic": null,
+    "steamScore": 86
+  },
+  {
+    "id": "game_073",
+    "title": "Apex Legends",
+    "description": "Battle Royale: легенди змагаються у пекучих матчах на виживання. (до 60 гравців)",
+    "genre": [
+      "Shooter"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://store.steampowered.com/app/1172470/Apex_Legends/",
+    "steamUrl": "https://store.steampowered.com/app/1172470/Apex_Legends/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/apex-legends/BV9ML45J2Q5V/0001",
+    "xboxPcUrl": "",
+    "otherUrl": "",
+    "gamePass": "",
+    "price": "0₴",
+    "gameplayUrl": "https://youtu.be/s7FGVW4DExU?si=Ecj_PGqXSMoCOeGw",
+    "gameplayYtId": "s7FGVW4DExU",
+    "releaseYear": 2019,
+    "metacritic": 89,
+    "steamScore": 76
+  },
+  {
+    "id": "game_074",
+    "title": "Split Fiction",
+    "description": "Кооп-екшн: два герої долають фантастичні світи в неймовірно різноманітних рівнях. (2 гравці)",
+    "genre": [
+      "Action"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2001120/header.jpg?t=1763484567",
+    "steamUrl": "https://store.steampowered.com/app/2001120/Split_Fiction/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/split-fiction/9N1WXXD1RL8D/0010",
+    "xboxPcUrl": "",
+    "otherUrl": "",
+    "gamePass": "",
+    "price": "1299₴",
+    "gameplayUrl": "https://youtu.be/n__p8ciKfrE?si=xvDrQ5VNOO4oOJ6m",
+    "gameplayYtId": "n__p8ciKfrE",
+    "releaseYear": 2025,
+    "metacritic": 91,
+    "steamScore": 96
+  },
+  {
+    "id": "game_075",
+    "title": "Helldivers 2",
+    "description": "Кооп-шутер: разом захищайте демократію від орд прибульців на ворожих планетах. (1–4 гравці)",
+    "genre": [
+      "Shooter"
+    ],
+    "platform": [
+      "Windows",
+      "Xbox"
+    ],
+    "wayToPlay": "PC + Xbox",
+    "coverUrl": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/553850/f11c258b04a5e3e7771c1bab60f324ebf6c6c6fb/header.jpg?t=1770747641",
+    "steamUrl": "https://store.steampowered.com/app/553850/HELLDIVERS_2/",
+    "xboxConsoleUrl": "https://www.xbox.com/en-US/games/store/helldivers-2/9P3PT7PQJD0M/0010",
+    "xboxPcUrl": "",
+    "otherUrl": "",
+    "gamePass": "",
+    "price": "1199₴",
+    "gameplayUrl": "https://youtu.be/N6F_aVqXuwU?si=Yrh0LpoROYdkk1eG",
+    "gameplayYtId": "N6F_aVqXuwU",
+    "releaseYear": 2024,
+    "metacritic": 82,
+    "steamScore": 80
   }
 ]

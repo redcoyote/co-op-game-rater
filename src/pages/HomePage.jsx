@@ -19,7 +19,7 @@ export default function HomePage() {
         <div>
           <h1 className={styles.title}>Game Rater</h1>
           <p className={styles.subtitle}>
-            Оціни ігри разом з другом — знайдіть спільний вибір
+            Оціни, наскільки ти хочеш пограти в гру з друзями
           </p>
         </div>
         <button className={styles.startBtn} onClick={handleStart}>

@@ -14,23 +14,23 @@ const PlatformIcons = {
     </svg>
   ),
   Xbox: (
-    <svg viewBox="0 0 24 24" fill="currentColor" width="14" height="14" aria-label="Xbox">
-      <path d="M4.102 4.102C6.035 2.169 8.442 1 12 1s5.965 1.169 7.898 3.102C21.831 6.035 23 8.442 23 12s-1.169 5.965-3.102 7.898C17.965 21.831 15.558 23 12 23s-5.965-1.169-7.898-3.102C2.169 17.965 1 15.558 1 12S2.169 6.035 4.102 4.102zM12 3c-1.79 0-3.337.596-4.896 1.69C8.516 6.197 10.197 7.98 12 10.12c1.803-2.14 3.484-3.923 4.896-5.43C15.337 3.596 13.79 3 12 3zm7.416 3.416C18.322 7.824 16.646 9.74 14.82 12c1.826 2.26 3.502 4.176 4.596 5.584C20.404 16.176 21 14.629 21 12c0-2.01-.584-3.684-1.584-5.584zM4.584 6.416C3.584 8.316 3 9.99 3 12c0 2.629.596 4.176 1.584 5.584C5.678 16.176 7.354 14.26 9.18 12 7.354 9.74 5.678 7.824 4.584 6.416zM12 13.88c-1.803 2.14-3.484 3.923-4.896 5.43C8.663 20.404 10.21 21 12 21s3.337-.596 4.896-1.69C15.484 17.803 13.803 16.02 12 13.88z"/>
+    <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16" aria-label="Xbox">
+      <path d="M12 2C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm4.5 13.8c-.5.36-1.9-.9-4.5-3.8-2.6 2.9-4 4.16-4.5 3.8-.6-.48-.3-3.5 2.2-6.6C8.2 7.6 6.9 6.5 6.2 6.4c1.1-1.4 3.8-.7 5.8 2.1 2-2.8 4.7-3.5 5.8-2.1-.7.1-2 1.2-3.5 2.8 2.5 3.1 2.8 6.12 2.2 6.6z"/>
     </svg>
   ),
 }
 
 // ── Extract YouTube embed URL starting from ~middle ───────────────────────────
-function getEmbedUrl(ytId) {
+function getEmbedUrl(ytId, startAt = 600) {
   if (!ytId) return null
-  // Start at 60s — reasonable midpoint for most gameplay trailers
-  return `https://www.youtube.com/embed/${ytId}?autoplay=1&mute=1&start=60&controls=0&loop=1&playlist=${ytId}&modestbranding=1&rel=0`
+  return `https://www.youtube.com/embed/${ytId}?autoplay=1&mute=1&start=${startAt}&controls=0&loop=1&playlist=${ytId}&modestbranding=1&rel=0`
 }
 
 // ── GameCard ──────────────────────────────────────────────────────────────────
 export default function GameCard({ game, rating, onRate }) {
   const [hovered, setHovered] = useState(false)
-  const embedUrl = getEmbedUrl(game.gameplayYtId)
+  const embedUrl = getEmbedUrl(game.gameplayYtId, game.startAt)
+
 
   return (
     <div
@@ -45,7 +45,6 @@ export default function GameCard({ game, rating, onRate }) {
             src={embedUrl}
             className={styles.videoFrame}
             allow="autoplay; encrypted-media"
-            allowFullScreen
             title={game.title}
           />
         ) : (
@@ -71,42 +70,11 @@ export default function GameCard({ game, rating, onRate }) {
           )}
         </div>
 
-        {/* Tags row: genre + wayToPlay + gamePass */}
-        <div className={styles.tags}>
-          {game.genre.map((g) => (
-            <span key={g} className={styles.tagGenre}>{g}</span>
-          ))}
-          {game.wayToPlay && (
-            <span className={styles.tagCross}>{game.wayToPlay}</span>
-          )}
-          {game.gamePass && (
-            <span className={styles.tagGamePass}>GP: {game.gamePass}</span>
-          )}
-        </div>
-
-        {/* Platform icons */}
-        {game.platform?.length > 0 && (
-          <div className={styles.platforms}>
-            {game.platform.map((p) =>
-              PlatformIcons[p] ? (
-                <span key={p} className={styles.platformIcon} title={p}>
-                  {PlatformIcons[p]}
-                </span>
-              ) : (
-                <span key={p} className={styles.platformText}>{p}</span>
-              )
-            )}
-          </div>
-        )}
-
-        {/* Description */}
-        <p className={styles.description}>{game.description}</p>
-
         {/* Scores */}
         <div className={styles.scores}>
           {game.metacritic != null && (
             <span className={`${styles.score} ${styles.metacritic}`} title="Metacritic">
-              MC {game.metacritic}
+              Metacritic {game.metacritic}
             </span>
           )}
           {game.steamScore != null && (
@@ -116,51 +84,100 @@ export default function GameCard({ game, rating, onRate }) {
           )}
         </div>
 
-        {/* Store links + Price */}
-        <div className={styles.storeRow}>
-          <div className={styles.storeLinks}>
-            {game.steamUrl && (
-              <a href={game.steamUrl} target="_blank" rel="noreferrer" className={styles.storeLink}>
-                Steam
-              </a>
-            )}
-            {game.xboxConsoleUrl && (
-              <a href={game.xboxConsoleUrl} target="_blank" rel="noreferrer" className={styles.storeLink}>
-                Xbox
-              </a>
-            )}
-            {game.xboxPcUrl && (
-              <a href={game.xboxPcUrl} target="_blank" rel="noreferrer" className={styles.storeLink}>
-                Xbox PC
-              </a>
-            )}
-            {game.otherUrl && (
-              <a href={game.otherUrl} target="_blank" rel="noreferrer" className={styles.storeLink}>
-                Store
-              </a>
-            )}
-          </div>
-          {game.price && (
-            <span className={styles.price}>{game.price}</span>
-          )}
+        {/* Genre */}
+        <div className={styles.tags}>
+          {game.genre.map((g) => (
+            <span key={g} className={styles.tagGenre}>{g}</span>
+          ))}
         </div>
 
-        {/* Rating slider — тільки на сторінці оцінювання */}
+        {/* Description */}
+        <p className={styles.description}>{game.description}</p>
+
+        {/* Footer — притиснутий до низу адаптивно */}
+        <div className={styles.footer}>
+
+          {/* Platform icons */}
+          {game.platform?.length > 0 && (
+            <div className={styles.row}>
+              <span className={styles.rowLabel}>Девайси:</span>
+              <div className={styles.platforms}>
+                {game.platform.map((p) =>
+                  PlatformIcons[p] ? (
+                    <span key={p} className={styles.platformIcon} title={p}>
+                      {PlatformIcons[p]}
+                    </span>
+                  ) : (
+                    <span key={p} className={styles.platformText}>{p}</span>
+                  )
+                )}
+              </div>
+            </div>
+          )}
+
+          {/* Way to play (crossplay type) */}
+          {game.wayToPlay && (
+            <div className={styles.row}>
+              <span className={styles.rowLabel}>Як грати разом:</span>
+              <span className={styles.tagCross}>{game.wayToPlay}</span>
+            </div>
+          )}
+
+          {/* Store links */}
+          <div className={styles.row}>
+            <span className={styles.rowLabel}>Магазин:</span>
+            <div className={styles.storeLinks}>
+              {game.steamUrl && (
+                <a href={game.steamUrl} target="_blank" rel="noreferrer" className={styles.storeLink}>
+                  Steam
+                </a>
+              )}
+              {game.xboxConsoleUrl && (
+                <a href={game.xboxConsoleUrl} target="_blank" rel="noreferrer" className={styles.storeLink}>
+                  Xbox
+                </a>
+              )}
+              {game.xboxPcUrl && (
+                <a href={game.xboxPcUrl} target="_blank" rel="noreferrer" className={styles.storeLink}>
+                  Xbox PC
+                </a>
+              )}
+              {game.otherUrl && (
+                <a href={game.otherUrl} target="_blank" rel="noreferrer" className={styles.storeLink}>
+                  Store
+                </a>
+              )}
+            </div>
+          </div>
+
+          {/* Price + Game Pass */}
+          {game.price && (
+            <div className={styles.priceBlock}>
+              <span className={styles.price}>{game.price}</span>
+              {game.gamePass && (
+                <span className={styles.gamePassNote}>(є в Game Pass: {game.gamePass})</span>
+              )}
+            </div>
+          )}
+          {game.price && (
+            <span className={styles.priceNote}>*Орієнтовна ціна без знижок. Перевіряйте знижки та наявність у підписці</span>
+          )}
+
+        </div>
+
+        {/* Rating buttons — тільки на сторінці оцінювання */}
         {onRate && (
           <div className={styles.ratingRow}>
-            <input
-              type="range"
-              min={1}
-              max={10}
-              value={rating ?? 5}
-              onChange={(e) => onRate(game.id, Number(e.target.value))}
-              className={styles.slider}
-              aria-label={`Оцінка для ${game.title}`}
-              aria-valuetext={rating != null ? `${rating} з 10` : 'не оцінено'}
-            />
-            <span className={styles.ratingValue}>
-              {rating != null ? rating : '—'}
-            </span>
+            {[1,2,3,4,5,6,7,8,9,10].map((n) => (
+              <button
+                key={n}
+                className={`${styles.ratingBtn} ${(rating ?? 5) === n ? styles.ratingBtnActive : ''}`}
+                onClick={() => onRate(game.id, n)}
+                aria-label={`Оцінка ${n}`}
+              >
+                {n}
+              </button>
+            ))}
           </div>
         )}
 
